@@ -4,25 +4,25 @@ Generated from the durable state branch for [openclaw/clawsweeper](https://githu
 
 ## Sweep Dashboard
 
-Last source update: May 3, 2026, 07:04 UTC
+Last source update: May 3, 2026, 07:06 UTC
 
 ### Fleet
 
 | Metric | Count |
 | --- | ---: |
 | Covered repositories | 3 |
-| Open review records | 6842 |
-| Archived closed records | 17319 |
-| Fresh reviews, 7d | 6750 |
-| Proposed closes awaiting apply | 9 |
-| Work candidates awaiting promotion | 2824 |
+| Open review records | 6839 |
+| Archived closed records | 17324 |
+| Fresh reviews, 7d | 6747 |
+| Proposed closes awaiting apply | 0 |
+| Work candidates awaiting promotion | 2827 |
 | Failed or stale reviews | 5 |
 
 ### Current Runs
 
 | Repository | State | Updated | Run |
 | --- | --- | --- | --- |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | Review publish complete | May 3, 2026, 07:02 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/25272308744) |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | Audit finished | May 3, 2026, 07:05 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/25272627074) |
 | [openclaw/clawhub](https://github.com/openclaw/clawhub) | Audit finished | May 3, 2026, 07:04 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/25272632663) |
 | [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | Audit finished | May 3, 2026, 01:14 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/25266424091) |
 
@@ -30,8 +30,8 @@ Last source update: May 3, 2026, 07:04 UTC
 
 | Repository | Open records | Archived | Fresh | Proposed closes | Work candidates | Failed/stale | Last review | Last close |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | --- | --- |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 6621 | 16566 | 6529 | 9 | 2799 | 5 | May 3, 2026, 07:04 UTC | May 3, 2026, 06:57 UTC |
-| [openclaw/clawhub](https://github.com/openclaw/clawhub) | 220 | 748 | 220 | 0 | 24 | 0 | May 3, 2026, 06:26 UTC | May 3, 2026, 07:04 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 6614 | 16575 | 6522 | 0 | 2800 | 5 | May 3, 2026, 07:05 UTC | May 3, 2026, 07:06 UTC |
+| [openclaw/clawhub](https://github.com/openclaw/clawhub) | 224 | 744 | 224 | 0 | 26 | 0 | May 3, 2026, 06:26 UTC | May 3, 2026, 05:35 UTC |
 | [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | 1 | 5 | 1 | 0 | 1 | 0 | May 2, 2026, 06:33 UTC | May 1, 2026, 02:07 UTC |
 
 ### Work Candidates
@@ -84,7 +84,7 @@ Last source update: May 3, 2026, 07:04 UTC
 
 | Repository | Item | Title | Outcome | Status | Reviewed |
 | --- | --- | --- | --- | --- | --- |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#76474](https://github.com/openclaw/openclaw/pull/76474) | [codex] isolate image ops in worker process | keep_open / kept_open | complete | May 3, 2026, 07:04 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#76519](https://github.com/openclaw/openclaw/pull/76519) | test: add coverage for snake_case parameter fallback | keep_open / kept_open | complete | May 3, 2026, 07:05 UTC |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#76517](https://github.com/openclaw/openclaw/pull/76517) | fix(gateway): keep models list read-only fast | keep_open / kept_open | complete | May 3, 2026, 07:02 UTC |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#74954](https://github.com/openclaw/openclaw/pull/74954) | fix(agents): prevent provider defaultModel from overriding agents.defaults.model (fixes #24170) | keep_open / kept_open | complete | May 3, 2026, 07:01 UTC |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#76488](https://github.com/openclaw/openclaw/pull/76488) | fix(cli): inject default systemPrompt for local infer model run (#76464) | keep_open / kept_open | complete | May 3, 2026, 07:01 UTC |
@@ -106,7 +106,7 @@ Last source update: May 3, 2026, 07:04 UTC
 
 | Repository | Status | Last audit | Missing eligible | Stale records | Protected proposed | Scan complete |
 | --- | --- | --- | ---: | ---: | ---: | --- |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | open archived records | May 3, 2026, 01:12 UTC | 0 | 2 | 0 | yes |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | clean | May 3, 2026, 07:05 UTC | 0 | 4 | 0 | yes |
 | [openclaw/clawhub](https://github.com/openclaw/clawhub) | clean | May 3, 2026, 07:04 UTC | 0 | 0 | 0 | yes |
 | [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | clean | May 3, 2026, 01:14 UTC | 0 | 0 | 0 | yes |
 
