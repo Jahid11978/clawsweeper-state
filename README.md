@@ -4,7 +4,7 @@ Generated from the durable state branch for [openclaw/clawsweeper](https://githu
 
 ## Sweep Dashboard
 
-Last source update: May 5, 2026, 01:03 UTC
+Last source update: May 5, 2026, 01:06 UTC
 
 ### Fleet
 
@@ -24,13 +24,13 @@ Last source update: May 5, 2026, 01:03 UTC
 | --- | --- | --- | --- |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | Audit finished | May 5, 2026, 01:03 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/25352200221) |
 | [openclaw/clawhub](https://github.com/openclaw/clawhub) | Audit finished | May 5, 2026, 01:03 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/25352231892) |
-| [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | Audit finished | May 4, 2026, 18:52 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/25337165265) |
+| [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | Audit finished | May 5, 2026, 01:06 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/25352304079) |
 
 ### Repositories
 
 | Repository | Open records | Archived | Fresh | Proposed closes | Work candidates | Failed/stale | Last review | Last close |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | --- | --- |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 6783 | 17408 | 6691 | 0 | 2903 | 75 | May 5, 2026, 01:03 UTC | May 5, 2026, 01:01 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 6783 | 17408 | 6691 | 0 | 2903 | 75 | May 5, 2026, 01:05 UTC | May 5, 2026, 01:01 UTC |
 | [openclaw/clawhub](https://github.com/openclaw/clawhub) | 239 | 750 | 239 | 0 | 25 | 0 | May 5, 2026, 00:39 UTC | May 4, 2026, 06:12 UTC |
 | [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | 1 | 5 | 1 | 0 | 1 | 0 | May 2, 2026, 06:33 UTC | May 1, 2026, 02:07 UTC |
 
@@ -84,6 +84,7 @@ Last source update: May 5, 2026, 01:03 UTC
 
 | Repository | Item | Title | Outcome | Status | Reviewed |
 | --- | --- | --- | --- | --- | --- |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#74163](https://github.com/openclaw/openclaw/pull/74163) | WORKING: All Microsoft Issues and PRs (refresh) | keep_open / kept_open | complete | May 5, 2026, 01:05 UTC |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#77604](https://github.com/openclaw/openclaw/pull/77604) | fix(update): restore configured plugins on 4-to-5 updates | keep_open / kept_open | complete | May 5, 2026, 01:03 UTC |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#77612](https://github.com/openclaw/openclaw/issues/77612) | [Bug]: ollama/deepseek-v4-pro:cloud does not allow "max" in v2026.5.3-1 | keep_open / kept_open | complete | May 5, 2026, 01:02 UTC |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#77238](https://github.com/openclaw/openclaw/pull/77238) | fix(media): ship sharp for packaged image ops | keep_open / kept_open | complete | May 5, 2026, 01:01 UTC |
@@ -98,7 +99,6 @@ Last source update: May 5, 2026, 01:03 UTC
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#77598](https://github.com/openclaw/openclaw/issues/77598) | Track live dev agent behavior and trajectory | keep_open / kept_open | complete | May 5, 2026, 00:51 UTC |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#77205](https://github.com/openclaw/openclaw/pull/77205) | [codex] add durable message lifecycle delivery | keep_open / kept_open | complete | May 5, 2026, 00:51 UTC |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#55085](https://github.com/openclaw/openclaw/pull/55085) | CLI: add stable setup surface export for dynamic provider/channel configuration UIs | keep_open / kept_open | complete | May 5, 2026, 00:48 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#2597](https://github.com/openclaw/openclaw/issues/2597) | Context/state lost after unexpected compaction or session reset | keep_open / kept_open | complete | May 5, 2026, 00:47 UTC |
 
 </details>
 
@@ -108,7 +108,7 @@ Last source update: May 5, 2026, 01:03 UTC
 | --- | --- | --- | ---: | ---: | ---: | --- |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | clean | May 5, 2026, 01:03 UTC | 0 | 0 | 0 | yes |
 | [openclaw/clawhub](https://github.com/openclaw/clawhub) | clean | May 5, 2026, 01:03 UTC | 0 | 0 | 0 | yes |
-| [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | clean | May 4, 2026, 18:52 UTC | 0 | 0 | 0 | yes |
+| [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | missing records | May 5, 2026, 01:06 UTC | 3 | 0 | 0 | yes |
 
 
 ## Repair Dashboard
