@@ -4,18 +4,18 @@ Generated from the durable state branch for [openclaw/clawsweeper](https://githu
 
 ## Sweep Dashboard
 
-Last source update: May 6, 2026, 01:05 UTC
+Last source update: May 6, 2026, 01:07 UTC
 
 ### Fleet
 
 | Metric | Count |
 | --- | ---: |
 | Covered repositories | 3 |
-| Open review records | 7237 |
-| Archived closed records | 18414 |
-| Fresh reviews, 7d | 7135 |
+| Open review records | 7236 |
+| Archived closed records | 18415 |
+| Fresh reviews, 7d | 7134 |
 | Proposed closes awaiting apply | 0 |
-| Work candidates awaiting promotion | 2925 |
+| Work candidates awaiting promotion | 2924 |
 | Failed or stale reviews | 69 |
 
 ### Current Runs
@@ -23,16 +23,16 @@ Last source update: May 6, 2026, 01:05 UTC
 | Repository | State | Updated | Run |
 | --- | --- | --- | --- |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | Apply finished | May 6, 2026, 01:05 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/25410895284) |
-| [openclaw/clawhub](https://github.com/openclaw/clawhub) | Apply in progress | May 6, 2026, 01:03 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/25410878148) |
-| [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | Audit finished | May 5, 2026, 18:49 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/25395683662) |
+| [openclaw/clawhub](https://github.com/openclaw/clawhub) | Hot intake publish complete | May 6, 2026, 01:07 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/25410852724) |
+| [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | Audit finished | May 6, 2026, 01:07 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/25410985319) |
 
 ### Repositories
 
 | Repository | Open records | Archived | Fresh | Proposed closes | Work candidates | Failed/stale | Last review | Last close |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | --- | --- |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 6983 | 17654 | 6881 | 0 | 2901 | 68 | May 6, 2026, 01:05 UTC | May 6, 2026, 01:03 UTC |
-| [openclaw/clawhub](https://github.com/openclaw/clawhub) | 253 | 755 | 253 | 0 | 23 | 1 | May 6, 2026, 01:00 UTC | May 5, 2026, 22:28 UTC |
-| [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | 1 | 5 | 1 | 0 | 1 | 0 | May 2, 2026, 06:33 UTC | May 1, 2026, 02:07 UTC |
+| [openclaw/clawhub](https://github.com/openclaw/clawhub) | 253 | 755 | 253 | 0 | 23 | 1 | May 6, 2026, 01:06 UTC | May 5, 2026, 22:28 UTC |
+| [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | 0 | 6 | 0 | 0 | 0 | 0 | unknown | May 6, 2026, 01:07 UTC |
 
 ### Work Candidates
 
@@ -63,6 +63,7 @@ Last source update: May 6, 2026, 01:05 UTC
 
 | Repository | Item | Title | Reason | Closed | Report |
 | --- | --- | --- | --- | --- | --- |
+| [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | [#26](https://github.com/openclaw/clawsweeper/issues/26) | feat: render coding plan for queue_fix_pr candidates | closed externally after review | May 6, 2026, 01:07 UTC | [records/openclaw-clawsweeper/closed/26.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-clawsweeper/closed/26.md) |
 | [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | [#24](https://github.com/openclaw/clawsweeper/pull/24) | fix: repair automerge merge conflicts after merge race | closed externally after review | May 1, 2026, 02:07 UTC | [records/openclaw-clawsweeper/closed/24.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-clawsweeper/closed/24.md) |
 | [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | [#23](https://github.com/openclaw/clawsweeper/pull/23) | fix: repair dirty automerge prs | closed externally after review | May 1, 2026, 01:31 UTC | [records/openclaw-clawsweeper/closed/23.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-clawsweeper/closed/23.md) |
 | [openclaw/clawhub](https://github.com/openclaw/clawhub) | [#1016](https://github.com/openclaw/clawhub/issues/1016) | xfei-invoice Flagged suspicious | closed externally after review | Apr 30, 2026, 10:38 UTC | [records/openclaw-clawhub/closed/1016.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-clawhub/closed/1016.md) |
@@ -77,13 +78,14 @@ Last source update: May 6, 2026, 01:05 UTC
 | [openclaw/clawhub](https://github.com/openclaw/clawhub) | [#1006](https://github.com/openclaw/clawhub/issues/1006) | False positive: audio-to-text-and-video-to-text skill flagged incorrectly | closed externally after review | Apr 30, 2026, 10:16 UTC | [records/openclaw-clawhub/closed/1006.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-clawhub/closed/1006.md) |
 | [openclaw/clawhub](https://github.com/openclaw/clawhub) | [#1018](https://github.com/openclaw/clawhub/issues/1018) | False positive: lucid-skill flagged as suspicious | closed externally after review | Apr 30, 2026, 10:10 UTC | [records/openclaw-clawhub/closed/1018.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-clawhub/closed/1018.md) |
 | [openclaw/clawhub](https://github.com/openclaw/clawhub) | [#1010](https://github.com/openclaw/clawhub/issues/1010) | False positive: NoPUA flagged as suspicious | closed externally after review | Apr 30, 2026, 10:09 UTC | [records/openclaw-clawhub/closed/1010.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-clawhub/closed/1010.md) |
-| [openclaw/clawhub](https://github.com/openclaw/clawhub) | [#1013](https://github.com/openclaw/clawhub/issues/1013) | New Skill Submission: Manusilized - OpenClaw Supercharger | closed externally after review | Apr 30, 2026, 09:50 UTC | [records/openclaw-clawhub/closed/1013.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-clawhub/closed/1013.md) |
 
 <details>
 <summary>Recently Reviewed</summary>
 
 | Repository | Item | Title | Outcome | Status | Reviewed |
 | --- | --- | --- | --- | --- | --- |
+| [openclaw/clawhub](https://github.com/openclaw/clawhub) | [#2003](https://github.com/openclaw/clawhub/issues/2003) | Static analyzer over-fires `install_untrusted_source` on docker-compose-based skills | keep_open / kept_open | complete | May 6, 2026, 01:06 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#78140](https://github.com/openclaw/openclaw/pull/78140) | Fix private LAN mobile pairing auth policy | keep_open / kept_open | complete | May 6, 2026, 01:05 UTC |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#78166](https://github.com/openclaw/openclaw/pull/78166) | fix(auth): enforce canonical openai-codex oauth owner | keep_open / kept_open | complete | May 6, 2026, 01:05 UTC |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#78165](https://github.com/openclaw/openclaw/issues/78165) | [Bug]: channels.whatsapp.start-account blocks event loop ~40s, triggering reconnect storm | keep_open / kept_open | complete | May 6, 2026, 01:05 UTC |
 | [openclaw/clawhub](https://github.com/openclaw/clawhub) | [#2002](https://github.com/openclaw/clawhub/issues/2002) | skill publish --tags latest does not move displayed latest version to prerelease publish | keep_open / kept_open | complete | May 6, 2026, 01:00 UTC |
@@ -97,8 +99,6 @@ Last source update: May 6, 2026, 01:05 UTC
 | [openclaw/clawhub](https://github.com/openclaw/clawhub) | [#2025](https://github.com/openclaw/clawhub/issues/2025) | Cannot login after account deletion (GitHub OAuth locked) | keep_open / kept_open | complete | May 6, 2026, 00:56 UTC |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#77028](https://github.com/openclaw/openclaw/pull/77028) | fix(gateway): stabilize event-loop health sampling | keep_open / kept_open | complete | May 6, 2026, 00:56 UTC |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#78157](https://github.com/openclaw/openclaw/pull/78157) | fix(gateway): preserve mixed assistant history text | keep_open / kept_open | complete | May 6, 2026, 00:56 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#74131](https://github.com/openclaw/openclaw/pull/74131) | fix(agents): harden subagent lifecycle calls against transient gateway readiness failures | keep_open / kept_open | complete | May 6, 2026, 00:56 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#78155](https://github.com/openclaw/openclaw/pull/78155) | feat: support glob/wildcard patterns in contracts.tools | keep_open / kept_open | complete | May 6, 2026, 00:53 UTC |
 
 </details>
 
@@ -108,7 +108,7 @@ Last source update: May 6, 2026, 01:05 UTC
 | --- | --- | --- | ---: | ---: | ---: | --- |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | missing records | May 6, 2026, 01:05 UTC | 10 | 0 | 0 | yes |
 | [openclaw/clawhub](https://github.com/openclaw/clawhub) | clean | May 6, 2026, 01:04 UTC | 0 | 0 | 0 | yes |
-| [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | missing records | May 5, 2026, 18:49 UTC | 1 | 0 | 0 | yes |
+| [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | clean | May 6, 2026, 01:07 UTC | 0 | 0 | 0 | yes |
 
 
 ## Repair Dashboard
