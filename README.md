@@ -4,7 +4,7 @@ Generated from the durable state branch for [openclaw/clawsweeper](https://githu
 
 ## Sweep Dashboard
 
-Last source update: May 6, 2026, 18:49 UTC
+Last source update: May 6, 2026, 18:53 UTC
 
 ### Fleet
 
@@ -12,26 +12,26 @@ Last source update: May 6, 2026, 18:49 UTC
 | --- | ---: |
 | Covered repositories | 3 |
 | Open review records | 7394 |
-| Archived closed records | 18603 |
+| Archived closed records | 18604 |
 | Fresh reviews, 7d | 7283 |
 | Proposed closes awaiting apply | 0 |
-| Work candidates awaiting promotion | 2927 |
+| Work candidates awaiting promotion | 2925 |
 | Failed or stale reviews | 69 |
 
 ### Current Runs
 
 | Repository | State | Updated | Run |
 | --- | --- | --- | --- |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | Audit finished | May 6, 2026, 18:49 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/25454464100) |
-| [openclaw/clawhub](https://github.com/openclaw/clawhub) | Audit finished | May 6, 2026, 18:48 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/25454497334) |
-| [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | Audit finished | May 6, 2026, 07:14 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/25421636354) |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | Hot intake publish complete | May 6, 2026, 18:52 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/25454371550) |
+| [openclaw/clawhub](https://github.com/openclaw/clawhub) | Hot intake publish complete | May 6, 2026, 18:50 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/25454362663) |
+| [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | Audit finished | May 6, 2026, 18:53 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/25454733616) |
 
 ### Repositories
 
 | Repository | Open records | Archived | Fresh | Proposed closes | Work candidates | Failed/stale | Last review | Last close |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | --- | --- |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 7139 | 17834 | 7029 | 0 | 2906 | 68 | May 6, 2026, 18:49 UTC | May 6, 2026, 18:22 UTC |
-| [openclaw/clawhub](https://github.com/openclaw/clawhub) | 255 | 763 | 254 | 0 | 21 | 1 | May 6, 2026, 18:43 UTC | May 6, 2026, 07:40 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 7139 | 17835 | 7029 | 0 | 2904 | 68 | May 6, 2026, 18:51 UTC | May 6, 2026, 18:37 UTC |
+| [openclaw/clawhub](https://github.com/openclaw/clawhub) | 255 | 763 | 254 | 0 | 21 | 1 | May 6, 2026, 18:49 UTC | May 6, 2026, 07:40 UTC |
 | [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | 0 | 6 | 0 | 0 | 0 | 0 | unknown | May 6, 2026, 01:07 UTC |
 
 ### Work Candidates
@@ -84,8 +84,12 @@ Last source update: May 6, 2026, 18:49 UTC
 
 | Repository | Item | Title | Outcome | Status | Reviewed |
 | --- | --- | --- | --- | --- | --- |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#78573](https://github.com/openclaw/openclaw/issues/78573) | [Feature]: Native web search support for GitHub Copilot GPT models | keep_open / kept_open | complete | May 6, 2026, 18:51 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#78495](https://github.com/openclaw/openclaw/issues/78495) | docs: MEDIA: directive silently ignored when wrapped in markdown formatting | keep_open / kept_open | complete | May 6, 2026, 18:51 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#78587](https://github.com/openclaw/openclaw/pull/78587) | feat(gateway): bounded restart drain with zombie task TTL | keep_open / kept_open | complete | May 6, 2026, 18:50 UTC |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#78584](https://github.com/openclaw/openclaw/pull/78584) | build: clean up Node.js 26 deprecation warnings | keep_open / kept_open | complete | May 6, 2026, 18:49 UTC |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#78586](https://github.com/openclaw/openclaw/pull/78586) | feat(cli): openclaw sessions abort <key> admin command | keep_open / kept_open | complete | May 6, 2026, 18:49 UTC |
+| [openclaw/clawhub](https://github.com/openclaw/clawhub) | [#2047](https://github.com/openclaw/clawhub/issues/2047) | [Submission] jjr-iot-skill v1.3.1 - Agriculture IoT Integration | keep_open / kept_open | complete | May 6, 2026, 18:49 UTC |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#78412](https://github.com/openclaw/openclaw/pull/78412) | fix(gateway): restore KeepAlive recovery and skip repair kickstart on running LaunchAgent | keep_open / kept_open | complete | May 6, 2026, 18:49 UTC |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#78574](https://github.com/openclaw/openclaw/pull/78574) | feat(github-copilot): add native web search for Copilot GPT models | keep_open / kept_open | complete | May 6, 2026, 18:45 UTC |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#78558](https://github.com/openclaw/openclaw/pull/78558) | [Experimental] chore: prune generated and vendored surfaces | keep_open / kept_open | complete | May 6, 2026, 18:44 UTC |
@@ -95,10 +99,6 @@ Last source update: May 6, 2026, 18:49 UTC
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#9607](https://github.com/openclaw/openclaw/issues/9607) | Himalaya skill: missing email formatting philosophy and incorrect command syntax | keep_open / kept_open | complete | May 6, 2026, 18:43 UTC |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#64179](https://github.com/openclaw/openclaw/pull/64179) | Agents: add localized tool summaries | keep_open / kept_open | complete | May 6, 2026, 18:39 UTC |
 | [openclaw/clawhub](https://github.com/openclaw/clawhub) | [#494](https://github.com/openclaw/clawhub/issues/494) | Request Access to “Hubs” Feature for Telnyx Integration | keep_open / kept_open | complete | May 6, 2026, 18:39 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#78031](https://github.com/openclaw/openclaw/pull/78031) | feat(bootstrap): teach compact writing style — 83% less token load on workspace templates | keep_open / kept_open | complete | May 6, 2026, 18:39 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#8606](https://github.com/openclaw/openclaw/issues/8606) | Feature request: Hook event for context pruning | keep_open / kept_open | complete | May 6, 2026, 18:34 UTC |
-| [openclaw/clawhub](https://github.com/openclaw/clawhub) | [#60](https://github.com/openclaw/clawhub/issues/60) | npm Install fail | keep_open / kept_open | complete | May 6, 2026, 18:33 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#71619](https://github.com/openclaw/openclaw/pull/71619) | fix(daemon): keep Linux minimal service PATH truly minimal | keep_open / kept_open | complete | May 6, 2026, 18:33 UTC |
 
 </details>
 
@@ -108,7 +108,7 @@ Last source update: May 6, 2026, 18:49 UTC
 | --- | --- | --- | ---: | ---: | ---: | --- |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | missing records | May 6, 2026, 18:49 UTC | 34 | 2 | 0 | yes |
 | [openclaw/clawhub](https://github.com/openclaw/clawhub) | clean | May 6, 2026, 18:48 UTC | 0 | 0 | 0 | yes |
-| [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | missing records | May 6, 2026, 12:57 UTC | 1 | 0 | 0 | yes |
+| [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | missing records | May 6, 2026, 18:53 UTC | 1 | 0 | 0 | yes |
 
 
 ## Repair Dashboard
