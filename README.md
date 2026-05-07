@@ -4,7 +4,7 @@ Generated from the durable state branch for [openclaw/clawsweeper](https://githu
 
 ## Sweep Dashboard
 
-Last source update: May 7, 2026, 12:56 UTC
+Last source update: May 7, 2026, 12:58 UTC
 
 ### Fleet
 
@@ -24,7 +24,7 @@ Last source update: May 7, 2026, 12:56 UTC
 | --- | --- | --- | --- |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | Audit finished | May 7, 2026, 12:55 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/25496953595) |
 | [openclaw/clawhub](https://github.com/openclaw/clawhub) | Review in progress | May 7, 2026, 12:56 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/25497048799) |
-| [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | Audit finished | May 7, 2026, 01:11 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/25470194210) |
+| [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | Audit finished | May 7, 2026, 12:58 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/25497166682) |
 
 ### Repositories
 
@@ -108,7 +108,7 @@ Last source update: May 7, 2026, 12:56 UTC
 | --- | --- | --- | ---: | ---: | ---: | --- |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | missing records | May 7, 2026, 12:55 UTC | 64 | 0 | 0 | yes |
 | [openclaw/clawhub](https://github.com/openclaw/clawhub) | clean | May 7, 2026, 12:55 UTC | 0 | 0 | 0 | yes |
-| [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | missing records | May 7, 2026, 07:19 UTC | 3 | 0 | 0 | yes |
+| [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | missing records | May 7, 2026, 12:58 UTC | 3 | 0 | 0 | yes |
 
 
 ## Repair Dashboard
