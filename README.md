@@ -4,18 +4,18 @@ Generated from the durable state branch for [openclaw/clawsweeper](https://githu
 
 ## Sweep Dashboard
 
-Last source update: May 9, 2026, 06:59 UTC
+Last source update: May 9, 2026, 07:00 UTC
 
 ### Fleet
 
 | Metric | Count |
 | --- | ---: |
 | Covered repositories | 3 |
-| Open review records | 7711 |
+| Open review records | 7713 |
 | Archived closed records | 19233 |
-| Fresh reviews, 7d | 6740 |
+| Fresh reviews, 7d | 6742 |
 | Proposed closes awaiting apply | 0 |
-| Work candidates awaiting promotion | 2448 |
+| Work candidates awaiting promotion | 2449 |
 | Failed or stale reviews | 121 |
 
 ### Current Runs
@@ -24,13 +24,13 @@ Last source update: May 9, 2026, 06:59 UTC
 | --- | --- | --- | --- |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | Audit finished | May 9, 2026, 06:59 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/25594690205) |
 | [openclaw/clawhub](https://github.com/openclaw/clawhub) | Hot intake publish complete | May 9, 2026, 06:58 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/25594606978) |
-| [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | Audit finished | May 8, 2026, 18:47 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/25573330497) |
+| [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | Audit finished | May 9, 2026, 07:00 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/25594769340) |
 
 ### Repositories
 
 | Repository | Open records | Archived | Fresh | Proposed closes | Work candidates | Failed/stale | Last review | Last close |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | --- | --- |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 7430 | 18439 | 6459 | 0 | 2427 | 118 | May 9, 2026, 06:59 UTC | May 9, 2026, 06:57 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 7432 | 18439 | 6461 | 0 | 2428 | 118 | May 9, 2026, 07:00 UTC | May 9, 2026, 06:57 UTC |
 | [openclaw/clawhub](https://github.com/openclaw/clawhub) | 281 | 788 | 281 | 0 | 21 | 3 | May 9, 2026, 06:57 UTC | May 9, 2026, 01:48 UTC |
 | [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | 0 | 6 | 0 | 0 | 0 | 0 | unknown | May 6, 2026, 01:07 UTC |
 
@@ -38,6 +38,7 @@ Last source update: May 9, 2026, 06:59 UTC
 
 | Repository | Item | Title | Priority | Reviewed | Report |
 | --- | --- | --- | --- | --- | --- |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#79692](https://github.com/openclaw/openclaw/pull/79692) | fix(agents): classify stream_read_error as transient | high | May 9, 2026, 06:59 UTC | [records/openclaw-openclaw/items/79692.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/79692.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#19482](https://github.com/openclaw/openclaw/pull/19482) | fix(agents): only seed HEARTBEAT.md on brand-new workspaces | high | May 9, 2026, 06:20 UTC | [records/openclaw-openclaw/items/19482.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/19482.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#77127](https://github.com/openclaw/openclaw/pull/77127) | feat(tools/write): add append mode for agent writes | high | May 9, 2026, 06:17 UTC | [records/openclaw-openclaw/items/77127.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/77127.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#78664](https://github.com/openclaw/openclaw/pull/78664) | perf(agents): cache provider tool schema normalization | high | May 9, 2026, 06:12 UTC | [records/openclaw-openclaw/items/78664.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/78664.md) |
@@ -57,7 +58,6 @@ Last source update: May 9, 2026, 06:59 UTC
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#79553](https://github.com/openclaw/openclaw/issues/79553) | [Bug] Wizard cross-overwrites credentials in multi-account plugins when "Add a new account" is selected | high | May 8, 2026, 23:06 UTC | [records/openclaw-openclaw/items/79553.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/79553.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#79552](https://github.com/openclaw/openclaw/issues/79552) | [Bug]: Android node sends node.event before websocket connect handshake completes, causing notification eve... | high | May 8, 2026, 23:06 UTC | [records/openclaw-openclaw/items/79552.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/79552.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#79547](https://github.com/openclaw/openclaw/pull/79547) | fix(memory): skip runtime cron promotion | high | May 8, 2026, 22:45 UTC | [records/openclaw-openclaw/items/79547.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/79547.md) |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#79414](https://github.com/openclaw/openclaw/pull/79414) | build(pnpm): upgrade workspace to pnpm 11 | high | May 8, 2026, 22:23 UTC | [records/openclaw-openclaw/items/79414.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/79414.md) |
 
 ### Recently Closed
 
@@ -84,6 +84,9 @@ Last source update: May 9, 2026, 06:59 UTC
 
 | Repository | Item | Title | Outcome | Status | Reviewed |
 | --- | --- | --- | --- | --- | --- |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#79691](https://github.com/openclaw/openclaw/pull/79691) | fix(diagnostics): populate inputMessages/outputMessages on model.call events | keep_open / kept_open | complete | May 9, 2026, 07:00 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#75030](https://github.com/openclaw/openclaw/pull/75030) | fix(auth): explain masked oauth profiles | keep_open / kept_open | complete | May 9, 2026, 07:00 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#79692](https://github.com/openclaw/openclaw/pull/79692) | fix(agents): classify stream_read_error as transient | keep_open / kept_open | complete | May 9, 2026, 06:59 UTC |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#79319](https://github.com/openclaw/openclaw/pull/79319) | fix(sessions): recover store from backup and tmp artifacts | keep_open / kept_open | complete | May 9, 2026, 06:59 UTC |
 | [openclaw/clawhub](https://github.com/openclaw/clawhub) | [#2003](https://github.com/openclaw/clawhub/issues/2003) | Static analyzer over-fires `install_untrusted_source` on docker-compose-based skills | keep_open / kept_open | complete | May 9, 2026, 06:57 UTC |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#79686](https://github.com/openclaw/openclaw/pull/79686) | test(agents/bundle-mcp): cover configured MCP request-boundary path | keep_open / kept_open | complete | May 9, 2026, 06:56 UTC |
@@ -96,9 +99,6 @@ Last source update: May 9, 2026, 06:59 UTC
 | [openclaw/clawhub](https://github.com/openclaw/clawhub) | [#1046](https://github.com/openclaw/clawhub/issues/1046) | ClawHub skill publish issue + account sign-in problem after deleting account | keep_open / kept_open | complete | May 9, 2026, 06:49 UTC |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#79688](https://github.com/openclaw/openclaw/issues/79688) | Discord lane gets stuck in infinite retry loop when last turn is assistant + inbound has no user-text paylo... | close / skipped_invalid_decision | complete | May 9, 2026, 06:48 UTC |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#74051](https://github.com/openclaw/openclaw/pull/74051) | fix(memory): keep daily signals out of recall gates | keep_open / kept_open | complete | May 9, 2026, 06:45 UTC |
-| [openclaw/clawhub](https://github.com/openclaw/clawhub) | [#2094](https://github.com/openclaw/clawhub/issues/2094) | Defensive-scanner skills get flagged for containing the patterns they scan for (engine v2.4.22) | keep_open / kept_open | complete | May 9, 2026, 06:44 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#7909](https://github.com/openclaw/openclaw/issues/7909) | [Feature]: Add plain text copy option | keep_open / kept_open | complete | May 9, 2026, 06:44 UTC |
-| [openclaw/clawhub](https://github.com/openclaw/clawhub) | [#651](https://github.com/openclaw/clawhub/issues/651) | why | keep_open / kept_open | complete | May 9, 2026, 06:42 UTC |
 
 </details>
 
@@ -108,7 +108,7 @@ Last source update: May 9, 2026, 06:59 UTC
 | --- | --- | --- | ---: | ---: | ---: | --- |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | missing records | May 9, 2026, 06:59 UTC | 114 | 0 | 0 | yes |
 | [openclaw/clawhub](https://github.com/openclaw/clawhub) | missing records | May 9, 2026, 06:57 UTC | 2 | 0 | 0 | yes |
-| [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | missing records | May 9, 2026, 01:10 UTC | 5 | 0 | 0 | yes |
+| [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | missing records | May 9, 2026, 07:00 UTC | 1 | 0 | 0 | yes |
 
 
 ## Repair Dashboard
