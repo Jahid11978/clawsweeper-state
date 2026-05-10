@@ -4,33 +4,33 @@ Generated from the durable state branch for [openclaw/clawsweeper](https://githu
 
 ## Sweep Dashboard
 
-Last source update: May 10, 2026, 12:36 UTC
+Last source update: May 10, 2026, 12:38 UTC
 
 ### Fleet
 
 | Metric | Count |
 | --- | ---: |
 | Covered repositories | 3 |
-| Open review records | 7627 |
+| Open review records | 7628 |
 | Archived closed records | 19847 |
-| Fresh reviews, 7d | 4647 |
+| Fresh reviews, 7d | 4640 |
 | Proposed closes awaiting apply | 0 |
-| Work candidates awaiting promotion | 1359 |
+| Work candidates awaiting promotion | 1358 |
 | Failed or stale reviews | 148 |
 
 ### Current Runs
 
 | Repository | State | Updated | Run |
 | --- | --- | --- | --- |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | Review publish complete | May 10, 2026, 12:35 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/25628711771) |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | Review in progress | May 10, 2026, 12:38 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/25628914507) |
 | [openclaw/clawhub](https://github.com/openclaw/clawhub) | Review in progress | May 10, 2026, 12:35 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/25628869083) |
-| [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | Audit finished | May 9, 2026, 18:37 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/25608767616) |
+| [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | Audit finished | May 10, 2026, 12:38 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/25628912206) |
 
 ### Repositories
 
 | Repository | Open records | Archived | Fresh | Proposed closes | Work candidates | Failed/stale | Last review | Last close |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | --- | --- |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 7367 | 19018 | 4387 | 0 | 1340 | 145 | May 10, 2026, 12:36 UTC | May 10, 2026, 12:36 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 7368 | 19018 | 4380 | 0 | 1339 | 145 | May 10, 2026, 12:38 UTC | May 10, 2026, 12:36 UTC |
 | [openclaw/clawhub](https://github.com/openclaw/clawhub) | 260 | 823 | 260 | 0 | 19 | 3 | May 10, 2026, 12:33 UTC | May 10, 2026, 04:00 UTC |
 | [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | 0 | 6 | 0 | 0 | 0 | 0 | unknown | May 6, 2026, 01:07 UTC |
 
@@ -84,6 +84,8 @@ Last source update: May 10, 2026, 12:36 UTC
 
 | Repository | Item | Title | Outcome | Status | Reviewed |
 | --- | --- | --- | --- | --- | --- |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#78936](https://github.com/openclaw/openclaw/pull/78936) | fix #78919: [Bug] ACP sessions_spawn doesn't route images to Codex's native vision like acpx codex exec does | keep_open / kept_open | complete | May 10, 2026, 12:38 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#80251](https://github.com/openclaw/openclaw/pull/80251) | fix(sessions): rotate reset transcripts and clear compaction state | keep_open / kept_open | complete | May 10, 2026, 12:37 UTC |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#80252](https://github.com/openclaw/openclaw/pull/80252) | fix(discord): proxy gateway metadata fetch | keep_open / kept_open | complete | May 10, 2026, 12:36 UTC |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#7661](https://github.com/openclaw/openclaw/issues/7661) | Feature Request: Add channel creation to message tool | keep_open / kept_open | complete | May 10, 2026, 12:34 UTC |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#9797](https://github.com/openclaw/openclaw/issues/9797) | [Feature]: `queue_status` tool for intelligent task dispatch | keep_open / kept_open | complete | May 10, 2026, 12:33 UTC |
@@ -97,8 +99,6 @@ Last source update: May 10, 2026, 12:36 UTC
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#9637](https://github.com/openclaw/openclaw/issues/9637) | Add accessibility config option to disable emojis and unicode symbols in TUI | keep_open / kept_open | complete | May 10, 2026, 12:32 UTC |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#8892](https://github.com/openclaw/openclaw/issues/8892) | Feature: --agent flag for TUI to select which agent handles the session | keep_open / kept_open | complete | May 10, 2026, 12:32 UTC |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#9820](https://github.com/openclaw/openclaw/issues/9820) | feat: add jsonl support to memory indexer | keep_open / kept_open | complete | May 10, 2026, 12:32 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#7575](https://github.com/openclaw/openclaw/issues/7575) | feat: Sysbox Docker Runtime for Secure Container Isolation (Host Maintenance Required) | keep_open / kept_open | complete | May 10, 2026, 12:32 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#7648](https://github.com/openclaw/openclaw/issues/7648) | Feature Request: Option to disable auto-scroll in Control UI / WebChat | keep_open / kept_open | complete | May 10, 2026, 12:32 UTC |
 
 </details>
 
@@ -108,7 +108,7 @@ Last source update: May 10, 2026, 12:36 UTC
 | --- | --- | --- | ---: | ---: | ---: | --- |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | missing records | May 10, 2026, 12:35 UTC | 134 | 1 | 0 | yes |
 | [openclaw/clawhub](https://github.com/openclaw/clawhub) | clean | May 10, 2026, 12:34 UTC | 0 | 0 | 0 | yes |
-| [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | missing records | May 10, 2026, 07:12 UTC | 2 | 0 | 0 | yes |
+| [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | missing records | May 10, 2026, 12:38 UTC | 2 | 0 | 0 | yes |
 
 
 ## Repair Dashboard
