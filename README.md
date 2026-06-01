@@ -4,25 +4,25 @@ Generated from the durable state branch for [openclaw/clawsweeper](https://githu
 
 ## Sweep Dashboard
 
-Last source update: Jun 1, 2026, 20:46 UTC
+Last source update: Jun 1, 2026, 21:53 UTC
 
 ### Fleet
 
 | Metric | Count |
 | --- | ---: |
 | Covered repositories | 3 |
-| Open review records | 4140 |
-| Archived closed records | 1147 |
-| Fresh reviews, 7d | 3485 |
+| Open review records | 4154 |
+| Archived closed records | 1151 |
+| Fresh reviews, 7d | 3492 |
 | Proposed closes awaiting apply | 32 |
 | Work candidates awaiting promotion | 427 |
-| Failed or stale reviews | 969 |
+| Failed or stale reviews | 968 |
 
 ### Current Runs
 
 | Repository | State | Updated | Run |
 | --- | --- | --- | --- |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | Review in progress | Jun 1, 2026, 20:34 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/26780347966) |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | Review in progress | Jun 1, 2026, 21:46 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/26783986177) |
 | [openclaw/clawhub](https://github.com/openclaw/clawhub) | Review in progress | Jun 1, 2026, 20:46 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/26781014031) |
 | [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | Planning review | Jun 1, 2026, 20:11 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/26779163963) |
 
@@ -30,15 +30,15 @@ Last source update: Jun 1, 2026, 20:46 UTC
 
 | Repository | Open records | Archived | Fresh | Proposed closes | Work candidates | Failed/stale | Last review | Last close |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | --- | --- |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 3940 | 1113 | 3391 | 32 | 413 | 966 | Jun 1, 2026, 20:45 UTC | Jun 1, 2026, 20:09 UTC |
-| [openclaw/clawhub](https://github.com/openclaw/clawhub) | 157 | 21 | 62 | 0 | 5 | 3 | Jun 1, 2026, 20:44 UTC | Jun 1, 2026, 18:58 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 3954 | 1117 | 3398 | 32 | 413 | 965 | Jun 1, 2026, 21:53 UTC | Jun 1, 2026, 21:13 UTC |
+| [openclaw/clawhub](https://github.com/openclaw/clawhub) | 157 | 21 | 62 | 0 | 5 | 3 | Jun 1, 2026, 21:48 UTC | Jun 1, 2026, 18:58 UTC |
 | [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | 43 | 13 | 32 | 0 | 9 | 0 | May 31, 2026, 17:15 UTC | May 30, 2026, 19:23 UTC |
 
 ### Work Candidates
 
 | Repository | Item | Title | Priority | Reviewed | Report |
 | --- | --- | --- | --- | --- | --- |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#88504](https://github.com/openclaw/openclaw/pull/88504) | feat(memory): add multi-slot memory role architecture | high | Jun 1, 2026, 20:42 UTC | [records/openclaw-openclaw/items/88504.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/88504.md) |
+| [openclaw/clawhub](https://github.com/openclaw/clawhub) | [#2407](https://github.com/openclaw/clawhub/pull/2407) | fix: show official owner badges across public surfaces | high | Jun 1, 2026, 21:01 UTC | [records/openclaw-clawhub/items/2407.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-clawhub/items/2407.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89216](https://github.com/openclaw/openclaw/issues/89216) | [Bug]: Matrix bindings for per-room agent routing are silently ignored | high | Jun 1, 2026, 20:34 UTC | [records/openclaw-openclaw/items/89216.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/89216.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89197](https://github.com/openclaw/openclaw/issues/89197) | Gateway agent run failure with no model reachable: chat.history returns incomplete state, Control UI clears... | high | Jun 1, 2026, 19:34 UTC | [records/openclaw-openclaw/items/89197.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/89197.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#83933](https://github.com/openclaw/openclaw/pull/83933) | fix(cron): skip deleteAfterRun and preserve counters for manual runs (#83538) | high | Jun 1, 2026, 18:24 UTC | [records/openclaw-openclaw/items/83933.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/83933.md) |
@@ -63,6 +63,10 @@ Last source update: Jun 1, 2026, 20:46 UTC
 
 | Repository | Item | Title | Reason | Closed | Report |
 | --- | --- | --- | --- | --- | --- |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89227](https://github.com/openclaw/openclaw/issues/89227) | [Bug]: UpgradeOpenClaw does not validate config after reconfiguration, causing Gateway crash loop | implemented_on_main | Jun 1, 2026, 21:13 UTC | [records/openclaw-openclaw/closed/89227.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/89227.md) |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89226](https://github.com/openclaw/openclaw/pull/89226) | fix(agent-tools): resolve workspace-scoped tool fs root lazily | none | Jun 1, 2026, 21:09 UTC | [records/openclaw-openclaw/closed/89226.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/89226.md) |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89219](https://github.com/openclaw/openclaw/issues/89219) | [Bug]: Error: Requested agent harness "codex" does not support openai/gpt-5.5 (provider is not one of: codex). | implemented_on_main | Jun 1, 2026, 20:55 UTC | [records/openclaw-openclaw/closed/89219.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/89219.md) |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89185](https://github.com/openclaw/openclaw/pull/89185) | fix(memory): warn on gateway watcher FD risk | none | Jun 1, 2026, 20:28 UTC | [records/openclaw-openclaw/closed/89185.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/89185.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89212](https://github.com/openclaw/openclaw/pull/89212) | test: reset gateway timers at test boundaries | none | Jun 1, 2026, 20:09 UTC | [records/openclaw-openclaw/closed/89212.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/89212.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89207](https://github.com/openclaw/openclaw/issues/89207) | Add option to suppress text when audio is attached on inbound voice replies | duplicate_or_superseded | Jun 1, 2026, 19:51 UTC | [records/openclaw-openclaw/closed/89207.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/89207.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89205](https://github.com/openclaw/openclaw/issues/89205) | suppressNextUserMessagePersistence path does not opt into flush wrapper — daily memory still overwriteable... | implemented_on_main | Jun 1, 2026, 19:48 UTC | [records/openclaw-openclaw/closed/89205.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/89205.md) |
@@ -74,31 +78,27 @@ Last source update: Jun 1, 2026, 20:46 UTC
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89179](https://github.com/openclaw/openclaw/issues/89179) | [Bug] LINE channel webhook returns 404 after v2026.5.28 update | duplicate_or_superseded | Jun 1, 2026, 18:32 UTC | [records/openclaw-openclaw/closed/89179.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/89179.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89177](https://github.com/openclaw/openclaw/pull/89177) | docs: add Chinese README (README.zh.md) | low_signal_unmergeable_pr | Jun 1, 2026, 18:23 UTC | [records/openclaw-openclaw/closed/89177.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/89177.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89170](https://github.com/openclaw/openclaw/issues/89170) | Orphan transcripts accumulate unbounded; doctor --fix reports but does not archive them (2026.5.27) | duplicate_or_superseded | Jun 1, 2026, 17:52 UTC | [records/openclaw-openclaw/closed/89170.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/89170.md) |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89169](https://github.com/openclaw/openclaw/pull/89169) | fix(ci): restore dist cache before artifact builds | none | Jun 1, 2026, 17:49 UTC | [records/openclaw-openclaw/closed/89169.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/89169.md) |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#85798](https://github.com/openclaw/openclaw/pull/85798) | fix(agents): actionable copy for exhausted auth-profile failover | none | Jun 1, 2026, 17:48 UTC | [records/openclaw-openclaw/closed/85798.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/85798.md) |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89165](https://github.com/openclaw/openclaw/issues/89165) | HTTP 400 quota/usage_limit errors do not trigger provider fallback chain | implemented_on_main | Jun 1, 2026, 17:45 UTC | [records/openclaw-openclaw/closed/89165.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/89165.md) |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89166](https://github.com/openclaw/openclaw/issues/89166) | HTTP 400 from model provider not surfaced to chat UI; session silently waits for idleTimedOut | implemented_on_main | Jun 1, 2026, 17:44 UTC | [records/openclaw-openclaw/closed/89166.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/89166.md) |
 
 <details>
 <summary>Recently Reviewed</summary>
 
 | Repository | Item | Title | Outcome | Status | Reviewed |
 | --- | --- | --- | --- | --- | --- |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#87703](https://github.com/openclaw/openclaw/pull/87703) | fix(agents): run before_agent_finalize for embedded agents | keep_open / kept_open | complete | Jun 1, 2026, 20:45 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89217](https://github.com/openclaw/openclaw/issues/89217) | fix(gateway): surface exec approval delivery failures (replaces #82506) | keep_open / kept_open | failed | Jun 1, 2026, 20:44 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#88948](https://github.com/openclaw/openclaw/pull/88948) | Keep iMessage typing active during tool work | keep_open / kept_open | complete | Jun 1, 2026, 20:44 UTC |
-| [openclaw/clawhub](https://github.com/openclaw/clawhub) | [#2407](https://github.com/openclaw/clawhub/pull/2407) | fix: show official owner badges across public surfaces | keep_open / kept_open | complete | Jun 1, 2026, 20:44 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#88504](https://github.com/openclaw/openclaw/pull/88504) | feat(memory): add multi-slot memory role architecture | keep_open / kept_open | complete | Jun 1, 2026, 20:42 UTC |
-| [openclaw/clawhub](https://github.com/openclaw/clawhub) | [#2414](https://github.com/openclaw/clawhub/pull/2414) | Require multipart package publishes | keep_open / kept_open | complete | Jun 1, 2026, 20:37 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#87072](https://github.com/openclaw/openclaw/pull/87072) | feat(telegram): opt-in interleaved progress lane | keep_open / kept_open | failed | Jun 1, 2026, 20:36 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#88815](https://github.com/openclaw/openclaw/pull/88815) | feat: channel echo / session pinning | keep_open / kept_open | complete | Jun 1, 2026, 20:34 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#78303](https://github.com/openclaw/openclaw/pull/78303) | feat(mcp): channel-mediated approval for MCP tool calls (consent envelope) | keep_open / kept_open | complete | Jun 1, 2026, 20:34 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89216](https://github.com/openclaw/openclaw/issues/89216) | [Bug]: Matrix bindings for per-room agent routing are silently ignored | keep_open / kept_open | complete | Jun 1, 2026, 20:34 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89215](https://github.com/openclaw/openclaw/issues/89215) | Tool silently dropped when manifest omits contracts.tools; plugin logs success before the contract gate rej... | keep_open / kept_open | complete | Jun 1, 2026, 20:32 UTC |
-| [openclaw/clawhub](https://github.com/openclaw/clawhub) | [#2467](https://github.com/openclaw/clawhub/pull/2467) | feat: GitHub App source-controlled skill sync | keep_open / kept_open | complete | Jun 1, 2026, 20:32 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89191](https://github.com/openclaw/openclaw/pull/89191) | fix(webchat): show sessions_send handoffs as forwarded | keep_open / kept_open | complete | Jun 1, 2026, 20:32 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89214](https://github.com/openclaw/openclaw/pull/89214) | whatsapp: expose connection watchdog tuning in account config | keep_open / kept_open | complete | Jun 1, 2026, 20:31 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89157](https://github.com/openclaw/openclaw/pull/89157) | docs: document reusable helper contracts | keep_open / kept_open | complete | Jun 1, 2026, 20:30 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89083](https://github.com/openclaw/openclaw/pull/89083) | fix(feishu): prevent later final-shaped diagnostics from overwriting streaming card answer | keep_open / kept_open | complete | Jun 1, 2026, 21:53 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#88504](https://github.com/openclaw/openclaw/pull/88504) | feat(memory): add multi-slot memory role architecture | keep_open / kept_open | complete | Jun 1, 2026, 21:53 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89236](https://github.com/openclaw/openclaw/pull/89236) | fix(slack): default member-info userId to inbound sender | keep_open / kept_open | complete | Jun 1, 2026, 21:50 UTC |
+| [openclaw/clawhub](https://github.com/openclaw/clawhub) | [#2467](https://github.com/openclaw/clawhub/pull/2467) | feat: GitHub App skill sync behind internal UI gate | keep_open / kept_open | complete | Jun 1, 2026, 21:48 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89233](https://github.com/openclaw/openclaw/issues/89233) | [Bug]: Default models.providers.lmstudio.apiKey ships as plaintext placeholder 'lm-studio' — triggers false... | keep_open / kept_open | complete | Jun 1, 2026, 21:48 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89235](https://github.com/openclaw/openclaw/issues/89235) | iMessage cron delivery: hex group chat ID stripped to bogus phone number | keep_open / kept_open | complete | Jun 1, 2026, 21:48 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89234](https://github.com/openclaw/openclaw/pull/89234) | feat(browser): type secrets from env vars via {{env:KEY}} placeholders | keep_open / kept_open | complete | Jun 1, 2026, 21:46 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#87072](https://github.com/openclaw/openclaw/pull/87072) | feat(telegram): opt-in interleaved progress lane | keep_open / kept_open | complete | Jun 1, 2026, 21:45 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89232](https://github.com/openclaw/openclaw/issues/89232) | [Bug]: openclaw doctor reports platform-incompatible skills (macOS-only / Linux-only) as 'missing requireme... | keep_open / kept_open | complete | Jun 1, 2026, 21:43 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89231](https://github.com/openclaw/openclaw/issues/89231) | [Bug]: Windows installer-created scheduled task launches gateway.cmd with visible console — should use wind... | keep_open / kept_open | complete | Jun 1, 2026, 21:41 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#86719](https://github.com/openclaw/openclaw/pull/86719) | test(skills): cover stale plugin skill symlink retarget | keep_open / kept_open | complete | Jun 1, 2026, 21:39 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89157](https://github.com/openclaw/openclaw/pull/89157) | docs: document reusable helper contracts | keep_open / kept_open | complete | Jun 1, 2026, 21:36 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89228](https://github.com/openclaw/openclaw/issues/89228) | Regression: exec intermittently unavailable in isolated cron sessions (was fixed in 2026.4.1) | keep_open / kept_open | complete | Jun 1, 2026, 21:34 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89229](https://github.com/openclaw/openclaw/pull/89229) | fix(llm): guard Anthropic provider tool descriptors | keep_open / kept_open | complete | Jun 1, 2026, 21:34 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89230](https://github.com/openclaw/openclaw/pull/89230) | fix(agent-tools): resolve workspace-scoped tool fs root lazily | keep_open / kept_open | complete | Jun 1, 2026, 21:30 UTC |
 
 </details>
 
