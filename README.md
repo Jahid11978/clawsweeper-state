@@ -4,34 +4,34 @@ Generated from the durable state branch for [openclaw/clawsweeper](https://githu
 
 ## Sweep Dashboard
 
-Last source update: Jun 2, 2026, 23:13 UTC
+Last source update: Jun 2, 2026, 23:54 UTC
 
 ### Fleet
 
 | Metric | Count |
 | --- | ---: |
 | Covered repositories | 3 |
-| Open review records | 4629 |
+| Open review records | 4639 |
 | Archived closed records | 1248 |
-| Fresh reviews, 7d | 3703 |
-| Proposed closes awaiting apply | 35 |
-| Work candidates awaiting promotion | 454 |
-| Failed or stale reviews | 1068 |
+| Fresh reviews, 7d | 3706 |
+| Proposed closes awaiting apply | 34 |
+| Work candidates awaiting promotion | 456 |
+| Failed or stale reviews | 1069 |
 
 ### Current Runs
 
 | Repository | State | Updated | Run |
 | --- | --- | --- | --- |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | Review in progress | Jun 2, 2026, 22:56 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/26852908789) |
-| [openclaw/clawhub](https://github.com/openclaw/clawhub) | Review in progress | Jun 2, 2026, 23:04 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/26853239714) |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | Review in progress | Jun 2, 2026, 23:54 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/26855042509) |
+| [openclaw/clawhub](https://github.com/openclaw/clawhub) | Planning review | Jun 2, 2026, 23:48 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/26854845558) |
 | [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | Review in progress | Jun 2, 2026, 22:33 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/26851950662) |
 
 ### Repositories
 
 | Repository | Open records | Archived | Fresh | Proposed closes | Work candidates | Failed/stale | Last review | Last close |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | --- | --- |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 4418 | 1210 | 3616 | 35 | 438 | 1065 | Jun 2, 2026, 23:13 UTC | Jun 2, 2026, 21:38 UTC |
-| [openclaw/clawhub](https://github.com/openclaw/clawhub) | 161 | 22 | 55 | 0 | 4 | 3 | Jun 2, 2026, 17:58 UTC | Jun 1, 2026, 21:25 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 4424 | 1210 | 3615 | 34 | 440 | 1065 | Jun 2, 2026, 23:54 UTC | Jun 2, 2026, 21:38 UTC |
+| [openclaw/clawhub](https://github.com/openclaw/clawhub) | 165 | 22 | 59 | 0 | 4 | 4 | Jun 2, 2026, 23:29 UTC | Jun 1, 2026, 21:25 UTC |
 | [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | 50 | 16 | 32 | 0 | 12 | 0 | Jun 2, 2026, 19:23 UTC | Jun 2, 2026, 15:00 UTC |
 
 ### Work Candidates
@@ -84,21 +84,21 @@ Last source update: Jun 2, 2026, 23:13 UTC
 
 | Repository | Item | Title | Outcome | Status | Reviewed |
 | --- | --- | --- | --- | --- | --- |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89516](https://github.com/openclaw/openclaw/pull/89516) | Add operator install policy and remove dangerous-code install scanners | keep_open / kept_open | failed | Jun 2, 2026, 23:13 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#87072](https://github.com/openclaw/openclaw/pull/87072) | feat(telegram): opt-in interleaved progress lane | keep_open / kept_open | failed | Jun 2, 2026, 23:10 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89628](https://github.com/openclaw/openclaw/pull/89628) | Speed up precomputed command help startup | keep_open / kept_open | complete | Jun 2, 2026, 23:10 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#82572](https://github.com/openclaw/openclaw/pull/82572) | feat(queue): persist followup queues across gateway restarts | keep_open / kept_open | complete | Jun 2, 2026, 23:04 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#88788](https://github.com/openclaw/openclaw/issues/88788) | GHCR 2026.5.28 image emits stale Discord progress commentary config schema | keep_open / kept_open | complete | Jun 2, 2026, 23:03 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89627](https://github.com/openclaw/openclaw/pull/89627) | fix(agents): guard tool parameter schema inlining | keep_open / kept_open | complete | Jun 2, 2026, 23:02 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89623](https://github.com/openclaw/openclaw/pull/89623) | fix(gateway): accept --port on gateway health and probe (#79100) | keep_open / kept_open | complete | Jun 2, 2026, 22:58 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89624](https://github.com/openclaw/openclaw/pull/89624) | fix(ollama): guard tool schema normalization | keep_open / kept_open | failed | Jun 2, 2026, 22:55 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#88815](https://github.com/openclaw/openclaw/pull/88815) | feat: channel echo / session pinning | keep_open / kept_open | complete | Jun 2, 2026, 22:53 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89625](https://github.com/openclaw/openclaw/issues/89625) | [Feature]: Support ignoreOtherMentions config option for Slack channels | keep_open / kept_open | complete | Jun 2, 2026, 22:48 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89626](https://github.com/openclaw/openclaw/issues/89626) | Sub-agent completion events delivered 3x — duplicate messages on auto-announce retry | keep_open / kept_open | complete | Jun 2, 2026, 22:46 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89285](https://github.com/openclaw/openclaw/pull/89285) | fix(channels): hide tool failure details in public channels | keep_open / kept_open | complete | Jun 2, 2026, 22:44 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89307](https://github.com/openclaw/openclaw/pull/89307) | fix: remove dangerouslyForceUnsafeInstall gateway override | keep_open / kept_open | complete | Jun 2, 2026, 22:38 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89613](https://github.com/openclaw/openclaw/pull/89613) | docs: document auth profile failure policy contract | keep_open / kept_open | complete | Jun 2, 2026, 22:38 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89622](https://github.com/openclaw/openclaw/pull/89622) | fix(agents): skip unreadable Anthropic tool schemas | keep_open / kept_open | complete | Jun 2, 2026, 22:36 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89634](https://github.com/openclaw/openclaw/pull/89634) | fix(llm): guard unreadable tool schemas | keep_open / kept_open | complete | Jun 2, 2026, 23:54 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89633](https://github.com/openclaw/openclaw/issues/89633) | Codex turn fails with generic Telegram fallback when invalid image tool model is configured, leaving child... | keep_open / kept_open | complete | Jun 2, 2026, 23:53 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#87072](https://github.com/openclaw/openclaw/pull/87072) | feat(telegram): opt-in interleaved progress lane | keep_open / kept_open | complete | Jun 2, 2026, 23:52 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89632](https://github.com/openclaw/openclaw/pull/89632) | fix(config): guard schema lookup traversal | keep_open / kept_open | complete | Jun 2, 2026, 23:47 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89613](https://github.com/openclaw/openclaw/pull/89613) | docs: document auth profile failure policy contract | keep_open / kept_open | complete | Jun 2, 2026, 23:42 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#84972](https://github.com/openclaw/openclaw/pull/84972) | fix(agent): treat Anthropic long-context usage errors as context overflow for compact+retry | keep_open / kept_open | complete | Jun 2, 2026, 23:42 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89590](https://github.com/openclaw/openclaw/pull/89590) | fix(agents): forward turn-source for embedded plugin approvals (supersedes #84205) | keep_open / kept_open | complete | Jun 2, 2026, 23:38 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89290](https://github.com/openclaw/openclaw/pull/89290) | [codex] Keep Codex waiting after raw reasoning progress | keep_open / kept_open | complete | Jun 2, 2026, 23:37 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#68280](https://github.com/openclaw/openclaw/pull/68280) | fix(gateway): fail fast on missing local probe auth | keep_open / kept_open | complete | Jun 2, 2026, 23:33 UTC |
+| [openclaw/clawhub](https://github.com/openclaw/clawhub) | [#2473](https://github.com/openclaw/clawhub/pull/2473) | build(deps): bump the github-actions group with 3 updates | keep_open / kept_open | failed | Jun 2, 2026, 23:29 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89517](https://github.com/openclaw/openclaw/pull/89517) | [codex] fix gateway hot-mode restart reloads | keep_open / kept_open | complete | Jun 2, 2026, 23:28 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#81443](https://github.com/openclaw/openclaw/pull/81443) | fix: resolve QMD Windows shims and guard image URL downloads | keep_open / kept_open | failed | Jun 2, 2026, 23:27 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89630](https://github.com/openclaw/openclaw/pull/89630) | fix(shared): harden JSON schema default traversal | keep_open / kept_open | complete | Jun 2, 2026, 23:27 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89628](https://github.com/openclaw/openclaw/pull/89628) | Speed up precomputed command help startup | keep_open / kept_open | complete | Jun 2, 2026, 23:26 UTC |
+| [openclaw/clawhub](https://github.com/openclaw/clawhub) | [#2474](https://github.com/openclaw/clawhub/pull/2474) | build(deps): bump the production-minor-and-patch group with 9 updates | keep_open / kept_open | complete | Jun 2, 2026, 23:21 UTC |
 
 </details>
 
