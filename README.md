@@ -4,34 +4,34 @@ Generated from the durable state branch for [openclaw/clawsweeper](https://githu
 
 ## Sweep Dashboard
 
-Last source update: Jun 7, 2026, 17:58 UTC
+Last source update: Jun 7, 2026, 18:26 UTC
 
 ### Fleet
 
 | Metric | Count |
 | --- | ---: |
 | Covered repositories | 3 |
-| Open review records | 6954 |
+| Open review records | 6956 |
 | Archived closed records | 1674 |
-| Fresh reviews, 7d | 3969 |
+| Fresh reviews, 7d | 3968 |
 | Proposed closes awaiting apply | 50 |
-| Work candidates awaiting promotion | 435 |
-| Failed or stale reviews | 1785 |
+| Work candidates awaiting promotion | 436 |
+| Failed or stale reviews | 1783 |
 
 ### Current Runs
 
 | Repository | State | Updated | Run |
 | --- | --- | --- | --- |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | Review in progress | Jun 7, 2026, 17:47 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/27100099393) |
-| [openclaw/clawhub](https://github.com/openclaw/clawhub) | Review in progress | Jun 7, 2026, 17:49 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/27100130888) |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | Review in progress | Jun 7, 2026, 18:10 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/27100623970) |
+| [openclaw/clawhub](https://github.com/openclaw/clawhub) | Review in progress | Jun 7, 2026, 18:07 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/27100562399) |
 | [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | Planning review | Jun 7, 2026, 13:47 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/27094350254) |
 
 ### Repositories
 
 | Repository | Open records | Archived | Fresh | Proposed closes | Work candidates | Failed/stale | Last review | Last close |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | --- | --- |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 6692 | 1599 | 3831 | 50 | 422 | 1769 | Jun 7, 2026, 17:57 UTC | Jun 7, 2026, 16:38 UTC |
-| [openclaw/clawhub](https://github.com/openclaw/clawhub) | 198 | 55 | 117 | 0 | 9 | 16 | Jun 7, 2026, 17:58 UTC | Jun 7, 2026, 05:01 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 6694 | 1599 | 3830 | 50 | 423 | 1767 | Jun 7, 2026, 18:26 UTC | Jun 7, 2026, 16:38 UTC |
+| [openclaw/clawhub](https://github.com/openclaw/clawhub) | 198 | 55 | 117 | 0 | 9 | 16 | Jun 7, 2026, 18:23 UTC | Jun 7, 2026, 05:01 UTC |
 | [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | 64 | 20 | 21 | 0 | 4 | 0 | Jun 7, 2026, 17:07 UTC | Jun 5, 2026, 21:38 UTC |
 
 ### Work Candidates
@@ -84,21 +84,21 @@ Last source update: Jun 7, 2026, 17:58 UTC
 
 | Repository | Item | Title | Outcome | Status | Reviewed |
 | --- | --- | --- | --- | --- | --- |
-| [openclaw/clawhub](https://github.com/openclaw/clawhub) | [#2434](https://github.com/openclaw/clawhub/pull/2434) | feat(cli): polish terminal branding | keep_open / kept_open | complete | Jun 7, 2026, 17:58 UTC |
-| [openclaw/clawhub](https://github.com/openclaw/clawhub) | [#2444](https://github.com/openclaw/clawhub/pull/2444) | feat: import owned public GitHub skills | keep_open / kept_open | complete | Jun 7, 2026, 17:57 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#90328](https://github.com/openclaw/openclaw/pull/90328) | Expose model picker agent runtimes | keep_open / kept_open | failed | Jun 7, 2026, 17:57 UTC |
-| [openclaw/clawhub](https://github.com/openclaw/clawhub) | [#2439](https://github.com/openclaw/clawhub/pull/2439) | feat(web): add post-publish share dialog | keep_open / kept_open | complete | Jun 7, 2026, 17:57 UTC |
-| [openclaw/clawhub](https://github.com/openclaw/clawhub) | [#2490](https://github.com/openclaw/clawhub/pull/2490) | Flag context-padding scan evasion | keep_open / kept_open | complete | Jun 7, 2026, 17:56 UTC |
-| [openclaw/clawhub](https://github.com/openclaw/clawhub) | [#2483](https://github.com/openclaw/clawhub/pull/2483) | docs: add llms.txt | keep_open / kept_open | complete | Jun 7, 2026, 17:56 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#90101](https://github.com/openclaw/openclaw/pull/90101) | feat: add runtime self context config and tool | keep_open / kept_open | complete | Jun 7, 2026, 17:56 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89987](https://github.com/openclaw/openclaw/pull/89987) | fix(cron): suppress control diagnostics in delivery | keep_open / kept_open | complete | Jun 7, 2026, 17:56 UTC |
-| [openclaw/clawhub](https://github.com/openclaw/clawhub) | [#2452](https://github.com/openclaw/clawhub/pull/2452) | Add profile link to avatar menu | keep_open / kept_open | complete | Jun 7, 2026, 17:56 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#91219](https://github.com/openclaw/openclaw/pull/91219) | fix(gateway): skip deleted-agent guard for ACP harness session keys | keep_open / kept_open | complete | Jun 7, 2026, 17:55 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#78441](https://github.com/openclaw/openclaw/pull/78441) | feat(subagents): forward toolsAllow from sessions_spawn | keep_open / kept_open | complete | Jun 7, 2026, 17:55 UTC |
-| [openclaw/clawhub](https://github.com/openclaw/clawhub) | [#2495](https://github.com/openclaw/clawhub/pull/2495) | feat: add exact skill version revocation | keep_open / kept_open | complete | Jun 7, 2026, 17:55 UTC |
-| [openclaw/clawhub](https://github.com/openclaw/clawhub) | [#2491](https://github.com/openclaw/clawhub/pull/2491) | Add truncation-risk ClawScan rescan mode | keep_open / kept_open | complete | Jun 7, 2026, 17:55 UTC |
-| [openclaw/clawhub](https://github.com/openclaw/clawhub) | [#2489](https://github.com/openclaw/clawhub/pull/2489) | Require Codex scan artifact coverage proof | keep_open / kept_open | complete | Jun 7, 2026, 17:55 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#88796](https://github.com/openclaw/openclaw/pull/88796) | fix(discord): resolve guildId from session channel for search actions | keep_open / kept_open | complete | Jun 7, 2026, 17:53 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89659](https://github.com/openclaw/openclaw/pull/89659) | fix(feishu): retry on send rate-limit errors (230020/230006) | keep_open / kept_open | complete | Jun 7, 2026, 18:26 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89045](https://github.com/openclaw/openclaw/pull/89045) | fix: recover terminal session status on visible inbound turns | keep_open / kept_open | complete | Jun 7, 2026, 18:24 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89987](https://github.com/openclaw/openclaw/pull/89987) | fix(cron): suppress control diagnostics in delivery | keep_open / kept_open | complete | Jun 7, 2026, 18:24 UTC |
+| [openclaw/clawhub](https://github.com/openclaw/clawhub) | [#2489](https://github.com/openclaw/clawhub/pull/2489) | Require Codex scan artifact coverage proof | keep_open / kept_open | complete | Jun 7, 2026, 18:23 UTC |
+| [openclaw/clawhub](https://github.com/openclaw/clawhub) | [#2444](https://github.com/openclaw/clawhub/pull/2444) | feat: import owned public GitHub skills | keep_open / kept_open | complete | Jun 7, 2026, 18:22 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#88796](https://github.com/openclaw/openclaw/pull/88796) | fix(discord): resolve guildId from session channel for search actions | keep_open / kept_open | complete | Jun 7, 2026, 18:21 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#91219](https://github.com/openclaw/openclaw/pull/91219) | fix(gateway): skip deleted-agent guard for ACP harness session keys | keep_open / kept_open | complete | Jun 7, 2026, 18:21 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#90328](https://github.com/openclaw/openclaw/pull/90328) | Expose model picker agent runtimes | keep_open / kept_open | complete | Jun 7, 2026, 18:19 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#78441](https://github.com/openclaw/openclaw/pull/78441) | feat(subagents): forward toolsAllow from sessions_spawn | keep_open / kept_open | complete | Jun 7, 2026, 18:19 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#90101](https://github.com/openclaw/openclaw/pull/90101) | feat: add runtime self context config and tool | keep_open / kept_open | complete | Jun 7, 2026, 18:18 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#78741](https://github.com/openclaw/openclaw/pull/78741) | fix(ui): reset routed sessions to main on restore | keep_open / kept_open | complete | Jun 7, 2026, 18:17 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#91221](https://github.com/openclaw/openclaw/pull/91221) | fix(daemon): detect and resolve dueling user+system systemd gateway units (#79375) | keep_open / kept_open | complete | Jun 7, 2026, 18:17 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#91220](https://github.com/openclaw/openclaw/pull/91220) | fix(docs): lint workspace templates | keep_open / kept_open | complete | Jun 7, 2026, 18:15 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89959](https://github.com/openclaw/openclaw/pull/89959) | Enable native meta skill orchestration | keep_open / kept_open | complete | Jun 7, 2026, 18:13 UTC |
+| [openclaw/clawhub](https://github.com/openclaw/clawhub) | [#2490](https://github.com/openclaw/clawhub/pull/2490) | Flag context-padding scan evasion | keep_open / kept_open | complete | Jun 7, 2026, 18:12 UTC |
 
 </details>
 
