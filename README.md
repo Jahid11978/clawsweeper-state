@@ -4,33 +4,33 @@ Generated from the durable state branch for [openclaw/clawsweeper](https://githu
 
 ## Sweep Dashboard
 
-Last source update: Jun 12, 2026, 21:56 UTC
+Last source update: Jun 12, 2026, 22:33 UTC
 
 ### Fleet
 
 | Metric | Count |
 | --- | ---: |
 | Covered repositories | 3 |
-| Open review records | 6271 |
+| Open review records | 6273 |
 | Archived closed records | 4571 |
-| Fresh reviews, 7d | 2986 |
+| Fresh reviews, 7d | 2980 |
 | Proposed closes awaiting apply | 109 |
-| Work candidates awaiting promotion | 201 |
-| Failed or stale reviews | 2068 |
+| Work candidates awaiting promotion | 198 |
+| Failed or stale reviews | 2073 |
 
 ### Current Runs
 
 | Repository | State | Updated | Run |
 | --- | --- | --- | --- |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | Apply finished | Jun 12, 2026, 21:56 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/27445198862) |
-| [openclaw/clawhub](https://github.com/openclaw/clawhub) | Hot intake publish complete | Jun 12, 2026, 21:15 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/27443376203) |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | Hot intake publish complete | Jun 12, 2026, 22:33 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/27446708889) |
+| [openclaw/clawhub](https://github.com/openclaw/clawhub) | Review publish complete | Jun 12, 2026, 22:03 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/27445516059) |
 | [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | Hot intake publish complete | Jun 12, 2026, 09:01 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/27405555031) |
 
 ### Repositories
 
 | Repository | Open records | Archived | Fresh | Proposed closes | Work candidates | Failed/stale | Last review | Last close |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | --- | --- |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 6130 | 4303 | 2862 | 104 | 194 | 2067 | Jun 12, 2026, 21:52 UTC | Jun 12, 2026, 21:21 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 6132 | 4303 | 2856 | 104 | 191 | 2072 | Jun 12, 2026, 22:32 UTC | Jun 12, 2026, 21:21 UTC |
 | [openclaw/clawhub](https://github.com/openclaw/clawhub) | 115 | 197 | 109 | 5 | 4 | 0 | Jun 12, 2026, 21:08 UTC | Jun 12, 2026, 21:09 UTC |
 | [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | 26 | 71 | 15 | 0 | 3 | 1 | Jun 12, 2026, 15:47 UTC | Jun 11, 2026, 19:15 UTC |
 
@@ -84,21 +84,21 @@ Last source update: Jun 12, 2026, 21:56 UTC
 
 | Repository | Item | Title | Outcome | Status | Reviewed |
 | --- | --- | --- | --- | --- | --- |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#91484](https://github.com/openclaw/openclaw/pull/91484) | Add QA evidence summary normalization | keep_open / kept_open | failed | Jun 12, 2026, 21:52 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#90840](https://github.com/openclaw/openclaw/issues/90840) | [Bug]: Subagent run completion is delivered to chat user as raw worker output instead of parent/main summary | keep_open / kept_open | failed | Jun 12, 2026, 21:51 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#92064](https://github.com/openclaw/openclaw/issues/92064) | [Feature]: Connecting OpenClaw to live Rstudio session/Jupyter kernel | keep_open / kept_open | failed | Jun 12, 2026, 21:51 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#38327](https://github.com/openclaw/openclaw/issues/38327) | [Bug] "Cannot convert undefined or null to object" in 2026.3.2 with google-vertex/gemini-3.1-pro-preview | keep_open / kept_open | failed | Jun 12, 2026, 21:50 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#92069](https://github.com/openclaw/openclaw/issues/92069) | bug(cli): usage errors exit 0 | keep_open / kept_open | failed | Jun 12, 2026, 21:50 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#92077](https://github.com/openclaw/openclaw/issues/92077) | skills/ClawHub: surface source, add lockfile, sandbox by default | keep_open / kept_open | failed | Jun 12, 2026, 21:50 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#38309](https://github.com/openclaw/openclaw/issues/38309) | feat: support SecretRef in sandbox.docker.env | keep_open / kept_open | complete | Jun 12, 2026, 21:49 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#37967](https://github.com/openclaw/openclaw/issues/37967) | [Feature]: Feishu Group Chat SubAgents for User-Specific Skills and Memory | keep_open / kept_open | complete | Jun 12, 2026, 21:49 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#37816](https://github.com/openclaw/openclaw/issues/37816) | [Feature]: Telegram — full agent activity visibility (Web UI parity) | keep_open / kept_open | complete | Jun 12, 2026, 21:48 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#92531](https://github.com/openclaw/openclaw/pull/92531) | feat: implement shadow-logger plugin for memory system | close / proposed_close | complete | Jun 12, 2026, 21:42 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#37584](https://github.com/openclaw/openclaw/issues/37584) | feat: per-agent tool settings (e.g. tools.web.search.apiKey) | keep_open / kept_open | complete | Jun 12, 2026, 21:41 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#37487](https://github.com/openclaw/openclaw/issues/37487) | [Feature]: Feature request: Per-agent isolated browser instances with per-profile proxy support (concurrent... | keep_open / kept_open | complete | Jun 12, 2026, 21:40 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#36314](https://github.com/openclaw/openclaw/issues/36314) | [Feature]: 内置健壮性机制：Watchdog、全局错误处理、自动恢复 | keep_open / kept_open | complete | Jun 12, 2026, 21:40 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#37446](https://github.com/openclaw/openclaw/issues/37446) | Sub-agent timeout recovery creates duplicate API posts (idempotency gap) | keep_open / kept_open | complete | Jun 12, 2026, 21:40 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#35203](https://github.com/openclaw/openclaw/issues/35203) | [RFC] Multi-Agent Collaboration Enhancement: Capability Profiling + Shared Blackboard + Layered Memory + To... | keep_open / kept_open | complete | Jun 12, 2026, 21:33 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#90840](https://github.com/openclaw/openclaw/issues/90840) | [Bug]: Subagent run completion is delivered to chat user as raw worker output instead of parent/main summary | keep_open / kept_open | failed | Jun 12, 2026, 22:32 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#92367](https://github.com/openclaw/openclaw/issues/92367) | Feature request — scope-bound gateway auth tokens (`gateway.auth.tokens[]`) + per-agent dispatch-lane primi... | keep_open / kept_open | failed | Jun 12, 2026, 22:32 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#92539](https://github.com/openclaw/openclaw/issues/92539) | ModelRegistry: a single invalid plugin catalog aborts the entire custom-models load, leaving zero models an... | keep_open / kept_open | failed | Jun 12, 2026, 22:32 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#92077](https://github.com/openclaw/openclaw/issues/92077) | skills/ClawHub: surface source, add lockfile, sandbox by default | keep_open / kept_open | failed | Jun 12, 2026, 22:32 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#38327](https://github.com/openclaw/openclaw/issues/38327) | [Bug] "Cannot convert undefined or null to object" in 2026.3.2 with google-vertex/gemini-3.1-pro-preview | keep_open / kept_open | failed | Jun 12, 2026, 22:30 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#38520](https://github.com/openclaw/openclaw/issues/38520) | Feature: Pre-compaction agent notification, structured handoff window, and deferral mechanism | keep_open / kept_open | failed | Jun 12, 2026, 22:29 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#38439](https://github.com/openclaw/openclaw/issues/38439) | [Bug] Webchat avatar endpoint /avatar/{agentId} returns 404 even with valid IDENTITY.md avatar | keep_open / kept_open | failed | Jun 12, 2026, 22:29 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#38762](https://github.com/openclaw/openclaw/issues/38762) | browser act 的 ref 参数位置处理不一致，错误信息误导 | keep_open / kept_open | failed | Jun 12, 2026, 22:29 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#92064](https://github.com/openclaw/openclaw/issues/92064) | [Feature]: Connecting OpenClaw to live Rstudio session/Jupyter kernel | keep_open / kept_open | failed | Jun 12, 2026, 22:27 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#38622](https://github.com/openclaw/openclaw/issues/38622) | Workspace file injector does not follow symlinks | keep_open / kept_open | failed | Jun 12, 2026, 22:22 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#85249](https://github.com/openclaw/openclaw/pull/85249) | fix(cron): guard against undefined sourceDelivery in isolated executor | keep_open / kept_open | failed | Jun 12, 2026, 22:18 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#91484](https://github.com/openclaw/openclaw/pull/91484) | Add QA evidence summary normalization | keep_open / kept_open | failed | Jun 12, 2026, 22:18 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#38721](https://github.com/openclaw/openclaw/issues/38721) | [Bug] gateway shutdown timed out: node report shows active child process handle; leaves dirty shutdown + la... | keep_open / kept_open | failed | Jun 12, 2026, 22:16 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#92307](https://github.com/openclaw/openclaw/pull/92307) | Warn when host approvals clamp exec security at startup | keep_open / kept_open | failed | Jun 12, 2026, 22:10 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#92538](https://github.com/openclaw/openclaw/pull/92538) | fix(memory): persist metadata during safe reindex | keep_open / kept_open | failed | Jun 12, 2026, 22:02 UTC |
 
 </details>
 
