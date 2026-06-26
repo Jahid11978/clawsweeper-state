@@ -4,43 +4,42 @@ Generated from the durable state branch for [openclaw/clawsweeper](https://githu
 
 ## Sweep Dashboard
 
-Last source update: Jun 26, 2026, 22:46 UTC
+Last source update: Jun 26, 2026, 23:13 UTC
 
 ### Fleet
 
 | Metric | Count |
 | --- | ---: |
 | Covered repositories | 3 |
-| Open review records | 6725 |
-| Archived closed records | 10104 |
-| Fresh reviews, 7d | 6255 |
-| Proposed closes awaiting apply | 105 |
-| Work candidates awaiting promotion | 440 |
+| Open review records | 6724 |
+| Archived closed records | 10111 |
+| Fresh reviews, 7d | 6254 |
+| Proposed closes awaiting apply | 106 |
+| Work candidates awaiting promotion | 439 |
 | Failed or stale reviews | 20 |
 
 ### Current Runs
 
 | Repository | State | Updated | Run |
 | --- | --- | --- | --- |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | Apply in progress | Jun 26, 2026, 22:46 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/28269377438) |
-| [openclaw/clawhub](https://github.com/openclaw/clawhub) | Hot intake publish complete | Jun 26, 2026, 22:46 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/28269271806) |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | Apply finished | Jun 26, 2026, 22:59 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/28269440648) |
+| [openclaw/clawhub](https://github.com/openclaw/clawhub) | Review comments checked | Jun 26, 2026, 22:39 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/28268501978) |
 | [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | Audit finished | Jun 26, 2026, 18:56 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/28258856771) |
 
 ### Repositories
 
 | Repository | Open records | Archived | Fresh | Proposed closes | Work candidates | Failed/stale | Last review | Last close |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | --- | --- |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 6660 | 9523 | 6191 | 105 | 440 | 20 | Jun 26, 2026, 22:46 UTC | Jun 26, 2026, 22:43 UTC |
-| [openclaw/clawhub](https://github.com/openclaw/clawhub) | 56 | 413 | 55 | 0 | 0 | 0 | Jun 26, 2026, 22:45 UTC | Jun 26, 2026, 22:20 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 6660 | 9529 | 6191 | 106 | 439 | 20 | Jun 26, 2026, 23:13 UTC | Jun 26, 2026, 23:11 UTC |
+| [openclaw/clawhub](https://github.com/openclaw/clawhub) | 55 | 414 | 54 | 0 | 0 | 0 | Jun 26, 2026, 22:37 UTC | Jun 26, 2026, 22:50 UTC |
 | [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | 9 | 168 | 9 | 0 | 0 | 0 | Jun 26, 2026, 22:28 UTC | Jun 25, 2026, 01:19 UTC |
 
 ### Work Candidates
 
 | Repository | Item | Title | Priority | Reviewed | Report |
 | --- | --- | --- | --- | --- | --- |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#96865](https://github.com/openclaw/openclaw/pull/96865) | fix(codex): honor workspace-only fs for native tools | high | Jun 26, 2026, 22:45 UTC | [records/openclaw-openclaw/items/96865.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/96865.md) |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97115](https://github.com/openclaw/openclaw/issues/97115) | Bug: Cron fallback chain broken — models return zero-token success or killed by shared AbortController | high | Jun 26, 2026, 22:44 UTC | [records/openclaw-openclaw/items/97115.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/97115.md) |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97099](https://github.com/openclaw/openclaw/pull/97099) | fix(reply): retry stalled compacted direct sessions after reset | high | Jun 26, 2026, 22:39 UTC | [records/openclaw-openclaw/items/97099.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/97099.md) |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97115](https://github.com/openclaw/openclaw/issues/97115) | Bug: Cron fallback chain broken — models return zero-token success or killed by shared AbortController | high | Jun 26, 2026, 23:00 UTC | [records/openclaw-openclaw/items/97115.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/97115.md) |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97112](https://github.com/openclaw/openclaw/pull/97112) | feat(apple): add Russian and Hindi app catalogs | high | Jun 26, 2026, 22:56 UTC | [records/openclaw-openclaw/items/97112.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/97112.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89038](https://github.com/openclaw/openclaw/pull/89038) | fix: skip setup-only channel plugins in outbound resolution and drain pending deliveries on qqbot reconnect | high | Jun 26, 2026, 22:31 UTC | [records/openclaw-openclaw/items/89038.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/89038.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#88992](https://github.com/openclaw/openclaw/pull/88992) | fix: recover stranded replies in message_tool_only mode (#85714) | high | Jun 26, 2026, 22:12 UTC | [records/openclaw-openclaw/items/88992.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/88992.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97077](https://github.com/openclaw/openclaw/pull/97077) | fix(approval): distinguish policy vs non-persistable reason for missing allow-always (fixes #97069) (AI-ass... | high | Jun 26, 2026, 22:05 UTC | [records/openclaw-openclaw/items/97077.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/97077.md) |
@@ -50,6 +49,7 @@ Last source update: Jun 26, 2026, 22:46 UTC
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#54904](https://github.com/openclaw/openclaw/pull/54904) | fix(feishu): enforce configured webhookPath | high | Jun 26, 2026, 20:29 UTC | [records/openclaw-openclaw/items/54904.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/54904.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#50520](https://github.com/openclaw/openclaw/pull/50520) | fix(outbound): strip inbound metadata before delivery | high | Jun 26, 2026, 20:27 UTC | [records/openclaw-openclaw/items/50520.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/50520.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89039](https://github.com/openclaw/openclaw/pull/89039) | fix: prevent silent message loss from EmbeddedAttemptSessionTakeoverError | high | Jun 26, 2026, 19:37 UTC | [records/openclaw-openclaw/items/89039.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/89039.md) |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#96865](https://github.com/openclaw/openclaw/pull/96865) | fix(codex): honor workspace-only fs for native tools | high | Jun 26, 2026, 18:47 UTC | [records/openclaw-openclaw/items/96865.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/96865.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#77717](https://github.com/openclaw/openclaw/issues/77717) | Feishu channel: bot identity recovery race condition causes permanent disconnection | high | Jun 26, 2026, 17:49 UTC | [records/openclaw-openclaw/items/77717.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/77717.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#95000](https://github.com/openclaw/openclaw/pull/95000) | fix(gateway): expose image generation provider inventory over RPC | high | Jun 26, 2026, 17:29 UTC | [records/openclaw-openclaw/items/95000.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/95000.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#93368](https://github.com/openclaw/openclaw/pull/93368) | #92561: fix(security): bound context file ancestor walk to workspace root | high | Jun 26, 2026, 16:28 UTC | [records/openclaw-openclaw/items/93368.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/93368.md) |
@@ -63,6 +63,13 @@ Last source update: Jun 26, 2026, 22:46 UTC
 
 | Repository | Item | Title | Reason | Closed | Report |
 | --- | --- | --- | --- | --- | --- |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#96961](https://github.com/openclaw/openclaw/pull/96961) | fix(matrix): truncate thread starter body on code-point boundaries | none | Jun 26, 2026, 23:11 UTC | [records/openclaw-openclaw/closed/96961.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/96961.md) |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97116](https://github.com/openclaw/openclaw/pull/97116) | docs: clarify macOS release workflow refs | none | Jun 26, 2026, 23:07 UTC | [records/openclaw-openclaw/closed/97116.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/97116.md) |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#96959](https://github.com/openclaw/openclaw/pull/96959) | fix(subagents): truncate display label on code-point boundaries | none | Jun 26, 2026, 23:06 UTC | [records/openclaw-openclaw/closed/96959.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/96959.md) |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#96964](https://github.com/openclaw/openclaw/pull/96964) | perf(sessions): find matching checkpoints without sorting | closed externally after review | Jun 26, 2026, 22:54 UTC | [records/openclaw-openclaw/closed/96964.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/96964.md) |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#96636](https://github.com/openclaw/openclaw/pull/96636) | fix(edit): preserve unrelated lines during fuzzy text matching | closed externally after review | Jun 26, 2026, 22:52 UTC | [records/openclaw-openclaw/closed/96636.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/96636.md) |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97117](https://github.com/openclaw/openclaw/pull/97117) | fix(model-fetch): log guarded fetch diagnostics on errors | low_signal_unmergeable_pr | Jun 26, 2026, 22:52 UTC | [records/openclaw-openclaw/closed/97117.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/97117.md) |
+| [openclaw/clawhub](https://github.com/openclaw/clawhub) | [#2903](https://github.com/openclaw/clawhub/pull/2903) | fix: record security dataset hf commit | closed externally after review | Jun 26, 2026, 22:50 UTC | [records/openclaw-clawhub/closed/2903.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-clawhub/closed/2903.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97044](https://github.com/openclaw/openclaw/pull/97044) | fix(tools): treat no-op writes and edits as terminal tool-loop failures (fixes #96983) | closed externally after review | Jun 26, 2026, 22:43 UTC | [records/openclaw-openclaw/closed/97044.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/97044.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#96983](https://github.com/openclaw/openclaw/issues/96983) | fix(tools): treat no-op edits and identical writes as terminal tool-loop failures | closed externally after review | Jun 26, 2026, 22:43 UTC | [records/openclaw-openclaw/closed/96983.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/96983.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#96955](https://github.com/openclaw/openclaw/pull/96955) | perf(status): select recent sessions without full sort | closed externally after review | Jun 26, 2026, 22:43 UTC | [records/openclaw-openclaw/closed/96955.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/96955.md) |
@@ -71,34 +78,27 @@ Last source update: Jun 26, 2026, 22:46 UTC
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#96952](https://github.com/openclaw/openclaw/pull/96952) | perf(memory): copy only requested embedding dimensions | none | Jun 26, 2026, 21:51 UTC | [records/openclaw-openclaw/closed/96952.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/96952.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#96476](https://github.com/openclaw/openclaw/pull/96476) | fix(link-understanding): strip markdown links whose label contains brackets | closed externally after review | Jun 26, 2026, 21:48 UTC | [records/openclaw-openclaw/closed/96476.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/96476.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#96953](https://github.com/openclaw/openclaw/pull/96953) | fix(markdown): a fenced-code line with trailing text is content, not a closing fence | closed externally after review | Jun 26, 2026, 21:37 UTC | [records/openclaw-openclaw/closed/96953.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/96953.md) |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#96951](https://github.com/openclaw/openclaw/pull/96951) | fix(chunk): keep surrogate pairs whole when hard-splitting an over-long line | closed externally after review | Jun 26, 2026, 21:37 UTC | [records/openclaw-openclaw/closed/96951.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/96951.md) |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#96871](https://github.com/openclaw/openclaw/pull/96871) | [codex] Add rainbow Sessions background | closed externally after review | Jun 26, 2026, 21:37 UTC | [records/openclaw-openclaw/closed/96871.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/96871.md) |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#96745](https://github.com/openclaw/openclaw/pull/96745) | fix(markdown): a fenced-code line with trailing text is content, not a closing fence | none | Jun 26, 2026, 21:28 UTC | [records/openclaw-openclaw/closed/96745.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/96745.md) |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#96950](https://github.com/openclaw/openclaw/pull/96950) | perf(update): reuse missing plugin payload id set | none | Jun 26, 2026, 21:27 UTC | [records/openclaw-openclaw/closed/96950.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/96950.md) |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97104](https://github.com/openclaw/openclaw/pull/97104) | Add project workspaces with roles and document context | closed externally after review | Jun 26, 2026, 21:03 UTC | [records/openclaw-openclaw/closed/97104.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/97104.md) |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97094](https://github.com/openclaw/openclaw/pull/97094) | fix(ollama): strip markerless Kimi reasoning preambles | closed externally after review | Jun 26, 2026, 20:37 UTC | [records/openclaw-openclaw/closed/97094.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/97094.md) |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#96655](https://github.com/openclaw/openclaw/pull/96655) | perf(memory): add QMD search diagnostics and runtime cache | closed externally after review | Jun 26, 2026, 20:16 UTC | [records/openclaw-openclaw/closed/96655.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/96655.md) |
 
 <details>
 <summary>Recently Reviewed</summary>
 
 | Repository | Item | Title | Outcome | Status | Reviewed |
 | --- | --- | --- | --- | --- | --- |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97114](https://github.com/openclaw/openclaw/pull/97114) | Retain migration scripts and OpenCode skill on upstream base | close / proposed_close | complete | Jun 26, 2026, 22:46 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#96865](https://github.com/openclaw/openclaw/pull/96865) | fix(codex): honor workspace-only fs for native tools | keep_open / kept_open | complete | Jun 26, 2026, 22:45 UTC |
-| [openclaw/clawhub](https://github.com/openclaw/clawhub) | [#2903](https://github.com/openclaw/clawhub/pull/2903) | fix: record security dataset hf commit | keep_open / kept_open | complete | Jun 26, 2026, 22:45 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97115](https://github.com/openclaw/openclaw/issues/97115) | Bug: Cron fallback chain broken — models return zero-token success or killed by shared AbortController | keep_open / kept_open | complete | Jun 26, 2026, 22:44 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#96964](https://github.com/openclaw/openclaw/pull/96964) | perf(sessions): find matching checkpoints without sorting | keep_open / kept_open | complete | Jun 26, 2026, 22:44 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97100](https://github.com/openclaw/openclaw/pull/97100) | fix: seed Slack thread context after reset | keep_open / kept_open | complete | Jun 26, 2026, 23:13 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#96945](https://github.com/openclaw/openclaw/pull/96945) | perf(ui): use sets for usage selection filters | keep_open / kept_open | complete | Jun 26, 2026, 23:11 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97118](https://github.com/openclaw/openclaw/pull/97118) | fix(telegram): recover stalled ingress spool claims | keep_open / kept_open | complete | Jun 26, 2026, 23:08 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97120](https://github.com/openclaw/openclaw/pull/97120) | docs: simplify macOS app overview | keep_open / kept_open | complete | Jun 26, 2026, 23:05 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97115](https://github.com/openclaw/openclaw/issues/97115) | Bug: Cron fallback chain broken — models return zero-token success or killed by shared AbortController | keep_open / kept_open | complete | Jun 26, 2026, 23:00 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97099](https://github.com/openclaw/openclaw/pull/97099) | fix(reply): retry stalled compacted direct sessions after reset | keep_open / kept_open | complete | Jun 26, 2026, 23:00 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97119](https://github.com/openclaw/openclaw/pull/97119) | ci: right-size runner registration caps | keep_open / kept_open | complete | Jun 26, 2026, 22:58 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97112](https://github.com/openclaw/openclaw/pull/97112) | feat(apple): add Russian and Hindi app catalogs | keep_open / kept_open | complete | Jun 26, 2026, 22:56 UTC |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97113](https://github.com/openclaw/openclaw/pull/97113) | feat(i18n): refresh native locale artifacts | keep_open / kept_open | complete | Jun 26, 2026, 22:42 UTC |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97111](https://github.com/openclaw/openclaw/pull/97111) | feat(android): localize gateway onboarding | keep_open / kept_open | complete | Jun 26, 2026, 22:42 UTC |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#11460](https://github.com/openclaw/openclaw/issues/11460) | WhatsApp: Add support for querying message reactions | keep_open / kept_open | complete | Jun 26, 2026, 22:41 UTC |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#9764](https://github.com/openclaw/openclaw/issues/9764) | Google Chat: Add user OAuth support for reactions and media uploads | keep_open / kept_open | complete | Jun 26, 2026, 22:40 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97099](https://github.com/openclaw/openclaw/pull/97099) | fix(reply): retry stalled compacted direct sessions after reset | keep_open / kept_open | complete | Jun 26, 2026, 22:39 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97114](https://github.com/openclaw/openclaw/pull/97114) | Retain migration scripts and OpenCode skill on upstream base | close / proposed_close | complete | Jun 26, 2026, 22:39 UTC |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#11487](https://github.com/openclaw/openclaw/issues/11487) | Add optional `name`/`label` field to group config entries | keep_open / kept_open | complete | Jun 26, 2026, 22:39 UTC |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97106](https://github.com/openclaw/openclaw/pull/97106) | fix(exec): distinguish one-shot from ask=always in approval prompt | keep_open / kept_open | complete | Jun 26, 2026, 22:39 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#10354](https://github.com/openclaw/openclaw/issues/10354) | [Feature]: Add description and enum to message tool's channel parameter | keep_open / kept_open | complete | Jun 26, 2026, 22:38 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#10213](https://github.com/openclaw/openclaw/issues/10213) | feat: Add Anthropic server-side compaction API support | keep_open / kept_open | complete | Jun 26, 2026, 22:38 UTC |
-| [openclaw/clawhub](https://github.com/openclaw/clawhub) | [#2411](https://github.com/openclaw/clawhub/pull/2411) | feat: add plugin verify evidence endpoint | keep_open / kept_open | complete | Jun 26, 2026, 22:37 UTC |
 
 </details>
 
@@ -113,14 +113,14 @@ Last source update: Jun 26, 2026, 22:46 UTC
 
 ## Repair Dashboard
 
-Last source update: Jun 26, 2026, 22:15 UTC
+Last source update: Jun 26, 2026, 22:49 UTC
 
 State: Failed clusters need inspection
 
 | Metric | Count | Rate |
 | --- | ---: | ---: |
 | Latest clusters reviewed | 157 | 100% |
-| Run attempts archived | 280 | audit |
+| Run attempts archived | 281 | audit |
 | Latest successful clusters | 146 | 93.0% |
 | Latest failed clusters | 11 | 7.0% |
 | Latest cancelled clusters | 0 | 0.0% |
