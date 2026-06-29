@@ -4,25 +4,25 @@ Generated from the durable state branch for [openclaw/clawsweeper](https://githu
 
 ## Sweep Dashboard
 
-Last source update: Jun 29, 2026, 14:01 UTC
+Last source update: Jun 29, 2026, 14:11 UTC
 
 ### Fleet
 
 | Metric | Count |
 | --- | ---: |
 | Covered repositories | 3 |
-| Open review records | 6617 |
+| Open review records | 6620 |
 | Archived closed records | 10850 |
-| Fresh reviews, 7d | 4808 |
+| Fresh reviews, 7d | 4810 |
 | Proposed closes awaiting apply | 75 |
-| Work candidates awaiting promotion | 314 |
-| Failed or stale reviews | 36 |
+| Work candidates awaiting promotion | 312 |
+| Failed or stale reviews | 35 |
 
 ### Current Runs
 
 | Repository | State | Updated | Run |
 | --- | --- | --- | --- |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | Apply in progress | Jun 29, 2026, 13:58 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/28376945039) |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | Apply finished | Jun 29, 2026, 14:03 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/28376945039) |
 | [openclaw/clawhub](https://github.com/openclaw/clawhub) | Review publish complete | Jun 29, 2026, 12:06 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/28370611782) |
 | [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | Audit finished | Jun 29, 2026, 08:09 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/28357754525) |
 
@@ -30,7 +30,7 @@ Last source update: Jun 29, 2026, 14:01 UTC
 
 | Repository | Open records | Archived | Fresh | Proposed closes | Work candidates | Failed/stale | Last review | Last close |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | --- | --- |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 6547 | 10260 | 4739 | 75 | 313 | 36 | Jun 29, 2026, 13:59 UTC | Jun 29, 2026, 14:01 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 6550 | 10260 | 4741 | 75 | 311 | 35 | Jun 29, 2026, 14:11 UTC | Jun 29, 2026, 14:01 UTC |
 | [openclaw/clawhub](https://github.com/openclaw/clawhub) | 59 | 418 | 58 | 0 | 1 | 0 | Jun 29, 2026, 10:10 UTC | Jun 27, 2026, 16:45 UTC |
 | [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | 11 | 172 | 11 | 0 | 0 | 0 | Jun 29, 2026, 03:59 UTC | Jun 29, 2026, 13:48 UTC |
 
@@ -84,21 +84,21 @@ Last source update: Jun 29, 2026, 14:01 UTC
 
 | Repository | Item | Title | Outcome | Status | Reviewed |
 | --- | --- | --- | --- | --- | --- |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97665](https://github.com/openclaw/openclaw/pull/97665) | fix(control-ui): WebSocket connects to wrong gateway when two share an origin | keep_open / kept_open | failed | Jun 29, 2026, 13:59 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97793](https://github.com/openclaw/openclaw/issues/97793) | [Bug]: tryHandleRootHelpFastPath sets process.exitCode but fails to terminate process, risking CLI hangs | keep_open / kept_open | complete | Jun 29, 2026, 13:58 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97781](https://github.com/openclaw/openclaw/pull/97781) | fix(msteams): bound SSO API JSON response reads to prevent OOM | keep_open / kept_open | complete | Jun 29, 2026, 13:57 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97785](https://github.com/openclaw/openclaw/pull/97785) | fix(sessions): avoid cross-cwd recent resumes | keep_open / kept_open | complete | Jun 29, 2026, 13:55 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97796](https://github.com/openclaw/openclaw/issues/97796) | [Tech-Debt]: Use of generic Error for process exit simulation causes swallowed control-flow exceptions | keep_open / kept_open | complete | Jun 29, 2026, 13:55 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97795](https://github.com/openclaw/openclaw/issues/97795) | [Bug]: Unhandled persistence failures in chat-abort.ts silently swallow errors and risk memory leaks | keep_open / kept_open | complete | Jun 29, 2026, 13:54 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97792](https://github.com/openclaw/openclaw/issues/97792) | [Bug]: pnpm install fails out-of-the-box on standard Node v22 LTS (v22.17.0) | keep_open / kept_open | complete | Jun 29, 2026, 13:54 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#95225](https://github.com/openclaw/openclaw/pull/95225) | fix(os): use sw_vers for macOS version on Darwin instead of os.release() | keep_open / kept_open | complete | Jun 29, 2026, 14:11 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97782](https://github.com/openclaw/openclaw/pull/97782) | fix(feishu): bound Feishu API JSON response reads to prevent OOM | keep_open / kept_open | complete | Jun 29, 2026, 14:11 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97787](https://github.com/openclaw/openclaw/pull/97787) | fix: preserve Feishu post line breaks | keep_open / kept_open | complete | Jun 29, 2026, 14:10 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97799](https://github.com/openclaw/openclaw/issues/97799) | Molty can't reply | keep_open / kept_open | complete | Jun 29, 2026, 14:07 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97783](https://github.com/openclaw/openclaw/pull/97783) | fix(google-meet): bound Calendar and Meet API response reads to prevent OOM | keep_open / kept_open | complete | Jun 29, 2026, 14:07 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97683](https://github.com/openclaw/openclaw/pull/97683) | fix(irc): guard surrogate-range codepoints in \u literal-escape decoder | keep_open / kept_open | complete | Jun 29, 2026, 14:06 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97801](https://github.com/openclaw/openclaw/pull/97801) | fix: route targetless WebChat message sends | close / skipped_changed_since_review | complete | Jun 29, 2026, 14:04 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97785](https://github.com/openclaw/openclaw/pull/97785) | fix(sessions): avoid cross-cwd recent resumes | keep_open / kept_open | complete | Jun 29, 2026, 14:03 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97792](https://github.com/openclaw/openclaw/issues/97792) | [Bug]: pnpm install fails out-of-the-box on standard Node v22 LTS (v22.17.0) | keep_open / kept_open | complete | Jun 29, 2026, 14:03 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97800](https://github.com/openclaw/openclaw/issues/97800) | [Feature]: Console-free windows dashboard autostart (also without duplicate gateway launch) | keep_open / kept_open | complete | Jun 29, 2026, 14:01 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97796](https://github.com/openclaw/openclaw/issues/97796) | [Tech-Debt]: Use of generic Error for process exit simulation causes swallowed control-flow exceptions | keep_open / kept_open | complete | Jun 29, 2026, 13:58 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97795](https://github.com/openclaw/openclaw/issues/97795) | [Bug]: Unhandled persistence failures in chat-abort.ts silently swallow errors and risk memory leaks | keep_open / kept_open | complete | Jun 29, 2026, 13:58 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97793](https://github.com/openclaw/openclaw/issues/97793) | [Bug]: tryHandleRootHelpFastPath sets process.exitCode but fails to terminate process, risking CLI hangs | keep_open / kept_open | complete | Jun 29, 2026, 13:52 UTC |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97790](https://github.com/openclaw/openclaw/pull/97790) | fix: estimate DeepSeek spend when API reports zero cost | close / skipped_changed_since_review | complete | Jun 29, 2026, 13:48 UTC |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97662](https://github.com/openclaw/openclaw/pull/97662) | fix(matrix): bound raw transport response reads to prevent OOM | keep_open / kept_open | complete | Jun 29, 2026, 13:41 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97696](https://github.com/openclaw/openclaw/pull/97696) | fix(pdf): bound AI provider response reads in PDF text extraction | keep_open / kept_open | complete | Jun 29, 2026, 13:40 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#76221](https://github.com/openclaw/openclaw/pull/76221) | [codex] Fix Anthropic Vertex npm audit regression | keep_open / kept_open | complete | Jun 29, 2026, 13:40 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97683](https://github.com/openclaw/openclaw/pull/97683) | fix(irc): guard surrogate-range codepoints in \u literal-escape decoder | keep_open / kept_open | complete | Jun 29, 2026, 13:39 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97694](https://github.com/openclaw/openclaw/pull/97694) | fix(google): bound Gemini batch embedding file content reads to prevent OOM | keep_open / kept_open | complete | Jun 29, 2026, 13:38 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97371](https://github.com/openclaw/openclaw/issues/97371) | AGENTS.md/SKILL.md rules lack runtime enforcement; no session rollback; Stop button leaves zombie lock files | keep_open / kept_open | complete | Jun 29, 2026, 13:38 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97669](https://github.com/openclaw/openclaw/pull/97669) | fix(claude-cli): surface re-auth hint when subprocess OAuth token expires | keep_open / kept_open | complete | Jun 29, 2026, 13:37 UTC |
 
 </details>
 
