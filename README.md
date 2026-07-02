@@ -4,40 +4,44 @@ Generated from the durable state branch for [openclaw/clawsweeper](https://githu
 
 ## Sweep Dashboard
 
-Last source update: Jul 2, 2026, 23:13 UTC
+Last source update: Jul 2, 2026, 23:45 UTC
 
 ### Fleet
 
 | Metric | Count |
 | --- | ---: |
 | Covered repositories | 3 |
-| Open review records | 6934 |
-| Archived closed records | 11973 |
-| Fresh reviews, 7d | 5644 |
-| Proposed closes awaiting apply | 41 |
-| Work candidates awaiting promotion | 420 |
-| Failed or stale reviews | 41 |
+| Open review records | 6933 |
+| Archived closed records | 11976 |
+| Fresh reviews, 7d | 5654 |
+| Proposed closes awaiting apply | 50 |
+| Work candidates awaiting promotion | 418 |
+| Failed or stale reviews | 38 |
 
 ### Current Runs
 
 | Repository | State | Updated | Run |
 | --- | --- | --- | --- |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | Hot intake publish complete | Jul 2, 2026, 23:12 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/28626831652) |
-| [openclaw/clawhub](https://github.com/openclaw/clawhub) | Apply finished | Jul 2, 2026, 23:12 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/28627371580) |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | Hot intake publish complete | Jul 2, 2026, 23:43 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/28628263056) |
+| [openclaw/clawhub](https://github.com/openclaw/clawhub) | Review in progress | Jul 2, 2026, 23:45 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/28628628340) |
 | [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | Audit finished | Jul 2, 2026, 18:49 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/28613896924) |
 
 ### Repositories
 
 | Repository | Open records | Archived | Fresh | Proposed closes | Work candidates | Failed/stale | Last review | Last close |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | --- | --- |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 6851 | 11370 | 5562 | 41 | 418 | 41 | Jul 2, 2026, 23:13 UTC | Jul 2, 2026, 23:03 UTC |
-| [openclaw/clawhub](https://github.com/openclaw/clawhub) | 71 | 425 | 70 | 0 | 2 | 0 | Jul 2, 2026, 23:07 UTC | Jul 2, 2026, 16:19 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 6850 | 11373 | 5572 | 50 | 416 | 38 | Jul 2, 2026, 23:43 UTC | Jul 2, 2026, 23:37 UTC |
+| [openclaw/clawhub](https://github.com/openclaw/clawhub) | 71 | 425 | 70 | 0 | 2 | 0 | Jul 2, 2026, 23:16 UTC | Jul 2, 2026, 16:19 UTC |
 | [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | 12 | 178 | 12 | 0 | 0 | 0 | Jul 2, 2026, 17:48 UTC | Jul 2, 2026, 07:27 UTC |
 
 ### Work Candidates
 
 | Repository | Item | Title | Priority | Reviewed | Report |
 | --- | --- | --- | --- | --- | --- |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#45315](https://github.com/openclaw/openclaw/pull/45315) | fix: resolve response prefix template variables in abort replies | high | Jul 2, 2026, 23:29 UTC | [records/openclaw-openclaw/items/45315.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/45315.md) |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#76920](https://github.com/openclaw/openclaw/pull/76920) | fix(telegram): preserve forum topic routing | high | Jul 2, 2026, 23:20 UTC | [records/openclaw-openclaw/items/76920.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/76920.md) |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#54904](https://github.com/openclaw/openclaw/pull/54904) | fix(feishu): enforce configured webhookPath | high | Jul 2, 2026, 23:17 UTC | [records/openclaw-openclaw/items/54904.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/54904.md) |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#42637](https://github.com/openclaw/openclaw/pull/42637) | fix(skills): list omitted skill names when prompt is truncated | high | Jul 2, 2026, 23:06 UTC | [records/openclaw-openclaw/items/42637.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/42637.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#87255](https://github.com/openclaw/openclaw/pull/87255) | fix(config): skip .openclaw append when OPENCLAW_HOME already names a state dir (#45765) | high | Jul 2, 2026, 23:04 UTC | [records/openclaw-openclaw/items/87255.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/87255.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#99217](https://github.com/openclaw/openclaw/pull/99217) | Preserve Codex output after missing turn completion | high | Jul 2, 2026, 20:17 UTC | [records/openclaw-openclaw/items/99217.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/99217.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#99174](https://github.com/openclaw/openclaw/issues/99174) | [Bug]: Anthropic-shaped 400 bodies (no leading HTTP status) classify as null in failover classification, so... | high | Jul 2, 2026, 17:10 UTC | [records/openclaw-openclaw/items/99174.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/99174.md) |
@@ -53,16 +57,15 @@ Last source update: Jul 2, 2026, 23:13 UTC
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#44143](https://github.com/openclaw/openclaw/pull/44143) | fix: serialize outbound deliveries per channel+recipient | high | Jul 1, 2026, 19:13 UTC | [records/openclaw-openclaw/items/44143.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/44143.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#70676](https://github.com/openclaw/openclaw/pull/70676) | Fix/gateway silent revocation failures | high | Jul 1, 2026, 18:46 UTC | [records/openclaw-openclaw/items/70676.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/70676.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#72404](https://github.com/openclaw/openclaw/pull/72404) | fix(models): default input=[text,image] for vision-capable explicit-only models | high | Jul 1, 2026, 18:38 UTC | [records/openclaw-openclaw/items/72404.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/72404.md) |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#68843](https://github.com/openclaw/openclaw/pull/68843) | fix(acp): treat missing cwd as stale bound session | high | Jul 1, 2026, 18:28 UTC | [records/openclaw-openclaw/items/68843.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/68843.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#98702](https://github.com/openclaw/openclaw/issues/98702) | [Bug]: Inherited OpenAI OAuth (read-through from main) rejected at provider for built-in openclaw runtime o... | high | Jul 1, 2026, 16:15 UTC | [records/openclaw-openclaw/items/98702.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/98702.md) |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#98588](https://github.com/openclaw/openclaw/issues/98588) | [Bug]: HTTP 400 — anthropic/claude-opus-4-8 rejects tools.profile=coding tool schemas (opus-4-7 accepts sam... | high | Jul 1, 2026, 12:18 UTC | [records/openclaw-openclaw/items/98588.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/98588.md) |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#98585](https://github.com/openclaw/openclaw/issues/98585) | Approval window closes after resolving one of multiple pending approvals | high | Jul 1, 2026, 11:22 UTC | [records/openclaw-openclaw/items/98585.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/98585.md) |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#98573](https://github.com/openclaw/openclaw/issues/98573) | [Bug]: spawn gemini ENOENT on Windows (missing .cmd extension handling) | high | Jul 1, 2026, 10:53 UTC | [records/openclaw-openclaw/items/98573.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/items/98573.md) |
 
 ### Recently Closed
 
 | Repository | Item | Title | Reason | Closed | Report |
 | --- | --- | --- | --- | --- | --- |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#92737](https://github.com/openclaw/openclaw/issues/92737) | Android: ProcessCameraProvider eagerly initialized on app open, triggering camera privacy indicator (green... | closed externally after review | Jul 2, 2026, 23:37 UTC | [records/openclaw-openclaw/closed/92737.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/92737.md) |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#99256](https://github.com/openclaw/openclaw/pull/99256) | fix(auto-reply): single canonical group history and deduped turn metadata | closed externally after review | Jul 2, 2026, 23:17 UTC | [records/openclaw-openclaw/closed/99256.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/99256.md) |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#99218](https://github.com/openclaw/openclaw/issues/99218) | Per-turn agent input payload duplicates group history and restates sender/delivery facts up to 5x | closed externally after review | Jul 2, 2026, 23:17 UTC | [records/openclaw-openclaw/closed/99218.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/99218.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#99149](https://github.com/openclaw/openclaw/pull/99149) | fix(telegram): dedupe directive-tag prompt context | closed externally after review | Jul 2, 2026, 23:03 UTC | [records/openclaw-openclaw/closed/99149.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/99149.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#98928](https://github.com/openclaw/openclaw/pull/98928) | fix(macos): stop writing legacy config-health.json to prevent migration conflict (fixes #98917) | closed externally after review | Jul 2, 2026, 23:03 UTC | [records/openclaw-openclaw/closed/98928.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/98928.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#98277](https://github.com/openclaw/openclaw/pull/98277) | fix: keep Android gateway settings save idempotent | closed externally after review | Jul 2, 2026, 23:03 UTC | [records/openclaw-openclaw/closed/98277.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/98277.md) |
@@ -75,30 +78,27 @@ Last source update: Jul 2, 2026, 23:13 UTC
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#99017](https://github.com/openclaw/openclaw/pull/99017) | refactor(cli-runner): remove dead claude-live drain-aborted-turn state | closed externally after review | Jul 2, 2026, 22:24 UTC | [records/openclaw-openclaw/closed/99017.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/99017.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#98995](https://github.com/openclaw/openclaw/issues/98995) | Improve iOS Settings appearance selector placement | closed externally after review | Jul 2, 2026, 22:24 UTC | [records/openclaw-openclaw/closed/98995.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/98995.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#98023](https://github.com/openclaw/openclaw/pull/98023) | fix(ios): chat can return to originating control screen | closed externally after review | Jul 2, 2026, 22:24 UTC | [records/openclaw-openclaw/closed/98023.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/98023.md) |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#85478](https://github.com/openclaw/openclaw/pull/85478) | fix(slack): soften benign search no-result progress | closed externally after review | Jul 2, 2026, 22:24 UTC | [records/openclaw-openclaw/closed/85478.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/85478.md) |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#99248](https://github.com/openclaw/openclaw/pull/99248) | [codex] Support Slack assistant suggested prompts | duplicate_or_superseded | Jul 2, 2026, 22:00 UTC | [records/openclaw-openclaw/closed/99248.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/99248.md) |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#99155](https://github.com/openclaw/openclaw/pull/99155) | fix: stop iOS screen recording after cancellation | closed externally after review | Jul 2, 2026, 21:47 UTC | [records/openclaw-openclaw/closed/99155.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/99155.md) |
 
 <details>
 <summary>Recently Reviewed</summary>
 
 | Repository | Item | Title | Outcome | Status | Reviewed |
 | --- | --- | --- | --- | --- | --- |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#98695](https://github.com/openclaw/openclaw/pull/98695) | Expose legacy plugin manifest doctor lint findings | keep_open / kept_open | complete | Jul 2, 2026, 23:13 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#76920](https://github.com/openclaw/openclaw/pull/76920) | fix(telegram): preserve forum topic routing | keep_open / kept_open | complete | Jul 2, 2026, 23:13 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#99222](https://github.com/openclaw/openclaw/pull/99222) | fix(memory-host-sdk): retry fork on ENOENT from stale Homebrew Cellar Node path | keep_open / kept_open | complete | Jul 2, 2026, 23:13 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#98604](https://github.com/openclaw/openclaw/pull/98604) | fix(telegram): strip standalone <parameter> wrappers in rich HTML sanitization (fixes #98557) | keep_open / kept_open | complete | Jul 2, 2026, 23:12 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#94697](https://github.com/openclaw/openclaw/pull/94697) | fix(kill-tree): verify process group leader before using group kill to prevent gateway SIGTERM (#76259) | keep_open / kept_open | complete | Jul 2, 2026, 23:12 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#97103](https://github.com/openclaw/openclaw/pull/97103) | [codex] fix(sessions): report archive cleanup in sessions cleanup | keep_open / kept_open | complete | Jul 2, 2026, 23:11 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#96740](https://github.com/openclaw/openclaw/pull/96740) | feat(attach): record + resume the Claude cli session bound to an attach session | keep_open / kept_open | complete | Jul 2, 2026, 23:11 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#99257](https://github.com/openclaw/openclaw/issues/99257) | Persist observed room events as bare transcript rows for durable ambient group awareness | keep_open / kept_open | complete | Jul 2, 2026, 23:11 UTC |
-| [openclaw/clawhub](https://github.com/openclaw/clawhub) | [#2946](https://github.com/openclaw/clawhub/issues/2946) | Review path for an AIPOU MCP receipt skill with explicit no-hidden-wallet-action rules | keep_open / kept_open | complete | Jul 2, 2026, 23:07 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#96081](https://github.com/openclaw/openclaw/pull/96081) | fix: WebChat duplicates external reply events | keep_open / kept_open | complete | Jul 2, 2026, 23:07 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#95729](https://github.com/openclaw/openclaw/pull/95729) | fix: classify provider code-only failover errors | keep_open / kept_open | complete | Jul 2, 2026, 23:07 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#96151](https://github.com/openclaw/openclaw/pull/96151) | fix(status): surface fallback model selections in status mismatch detection | keep_open / kept_open | complete | Jul 2, 2026, 23:06 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#95692](https://github.com/openclaw/openclaw/pull/95692) | feat(openrouter): support models fallback array for automatic failover | keep_open / kept_open | complete | Jul 2, 2026, 23:04 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#95802](https://github.com/openclaw/openclaw/pull/95802) | feat(minimax): opt M3 into MiniMax priority lane via fastMode | keep_open / kept_open | complete | Jul 2, 2026, 23:04 UTC |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#89965](https://github.com/openclaw/openclaw/pull/89965) | fix(agents): emit user-visible notice when a turn exhausts its time budget | keep_open / kept_open | complete | Jul 2, 2026, 23:04 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#99259](https://github.com/openclaw/openclaw/pull/99259) | fix(android): use Bluetooth microphones for voice capture | keep_open / kept_open | complete | Jul 2, 2026, 23:43 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#98695](https://github.com/openclaw/openclaw/pull/98695) | Expose legacy plugin manifest doctor lint findings | keep_open / kept_open | complete | Jul 2, 2026, 23:42 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#99129](https://github.com/openclaw/openclaw/pull/99129) | fix(markdown-core): use Object.hasOwn instead of in operator in parseFrontmatterBlock | keep_open / kept_open | complete | Jul 2, 2026, 23:42 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#98725](https://github.com/openclaw/openclaw/pull/98725) | Expose legacy plugin dependency doctor lint findings | keep_open / kept_open | complete | Jul 2, 2026, 23:42 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#98400](https://github.com/openclaw/openclaw/pull/98400) | Expose heartbeat template doctor lint findings | keep_open / kept_open | complete | Jul 2, 2026, 23:42 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#47263](https://github.com/openclaw/openclaw/pull/47263) | Improve macOS onboarding UX and gateway setup | keep_open / kept_open | complete | Jul 2, 2026, 23:41 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#99227](https://github.com/openclaw/openclaw/issues/99227) | [Feature]: On-device LLM option for iOS Talk Mode | keep_open / kept_open | complete | Jul 2, 2026, 23:41 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#99208](https://github.com/openclaw/openclaw/pull/99208) | fix(agent-core): resolve tool-name mismatches for Claude Code alias calls | keep_open / kept_open | complete | Jul 2, 2026, 23:41 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#68843](https://github.com/openclaw/openclaw/pull/68843) | fix(acp): treat missing cwd as stale bound session | keep_open / kept_open | complete | Jul 2, 2026, 23:41 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#98801](https://github.com/openclaw/openclaw/pull/98801) | test(utils): add unit tests for parseJsonWithJson5Fallback | keep_open / kept_open | complete | Jul 2, 2026, 23:41 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#99211](https://github.com/openclaw/openclaw/pull/99211) | Expose legacy cron store doctor lint findings | keep_open / kept_open | complete | Jul 2, 2026, 23:40 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#48278](https://github.com/openclaw/openclaw/pull/48278) | Config: scaffold compaction loop guard settings | close / proposed_close | complete | Jul 2, 2026, 23:40 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#99229](https://github.com/openclaw/openclaw/issues/99229) | iOS Location Always needs explicit permission flow and use-case contract | keep_open / kept_open | complete | Jul 2, 2026, 23:40 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#99168](https://github.com/openclaw/openclaw/issues/99168) | bug(tools): large tool output can poison subsequent results as (no output) | close / proposed_close | complete | Jul 2, 2026, 23:39 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#40311](https://github.com/openclaw/openclaw/pull/40311) | feat(web-search): expose Brave Goggles for custom search filtering and ranking | keep_open / kept_open | complete | Jul 2, 2026, 23:39 UTC |
 
 </details>
 
