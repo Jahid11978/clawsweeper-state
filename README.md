@@ -13,9 +13,9 @@ Last source update: Jul 9, 2026, 23:37 UTC
 | Covered repositories | 3 |
 | Open review records | 6274 |
 | Archived closed records | 16266 |
-| Fresh reviews, 7d | 3135 |
+| Fresh reviews, 7d | 3123 |
 | Proposed closes awaiting apply | 3 |
-| Work candidates awaiting promotion | 226 |
+| Work candidates awaiting promotion | 224 |
 | Failed or stale reviews | 108 |
 
 ### Current Runs
@@ -30,7 +30,7 @@ Last source update: Jul 9, 2026, 23:37 UTC
 
 | Repository | Open records | Archived | Fresh | Proposed closes | Work candidates | Failed/stale | Last review | Last close |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | --- | --- |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 6188 | 15552 | 3049 | 3 | 224 | 108 | Jul 9, 2026, 23:37 UTC | Jul 9, 2026, 23:32 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 6188 | 15552 | 3037 | 3 | 222 | 108 | Jul 9, 2026, 23:37 UTC | Jul 9, 2026, 23:32 UTC |
 | [openclaw/clawhub](https://github.com/openclaw/clawhub) | 74 | 472 | 74 | 0 | 1 | 0 | Jul 9, 2026, 21:14 UTC | Jul 9, 2026, 21:16 UTC |
 | [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | 12 | 242 | 12 | 0 | 1 | 0 | Jul 9, 2026, 21:11 UTC | Jul 9, 2026, 15:53 UTC |
 
