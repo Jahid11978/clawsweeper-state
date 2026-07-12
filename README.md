@@ -4,25 +4,25 @@ Generated from the durable state branch for [openclaw/clawsweeper](https://githu
 
 ## Sweep Dashboard
 
-Last source update: Jul 12, 2026, 23:01 UTC
+Last source update: Jul 12, 2026, 23:11 UTC
 
 ### Fleet
 
 | Metric | Count |
 | --- | ---: |
 | Covered repositories | 3 |
-| Open review records | 6445 |
-| Archived closed records | 18016 |
-| Fresh reviews, 7d | 2686 |
+| Open review records | 6443 |
+| Archived closed records | 18018 |
+| Fresh reviews, 7d | 2684 |
 | Proposed closes awaiting apply | 2 |
-| Work candidates awaiting promotion | 317 |
+| Work candidates awaiting promotion | 316 |
 | Failed or stale reviews | 3830 |
 
 ### Current Runs
 
 | Repository | State | Updated | Run |
 | --- | --- | --- | --- |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | Apply in progress | Jul 12, 2026, 23:01 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/29212037019) |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | Apply finished | Jul 12, 2026, 23:11 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/29211760264) |
 | [openclaw/clawhub](https://github.com/openclaw/clawhub) | Review publish complete | Jul 12, 2026, 22:53 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/29212070899) |
 | [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | Hot intake publish complete | Jul 12, 2026, 21:28 UTC | [run](https://github.com/openclaw/clawsweeper/actions/runs/29209565944) |
 
@@ -30,7 +30,7 @@ Last source update: Jul 12, 2026, 23:01 UTC
 
 | Repository | Open records | Archived | Fresh | Proposed closes | Work candidates | Failed/stale | Last review | Last close |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | --- | --- |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 6384 | 17225 | 2625 | 2 | 314 | 3804 | Jul 12, 2026, 22:57 UTC | Jul 12, 2026, 23:01 UTC |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 6382 | 17227 | 2623 | 2 | 313 | 3804 | Jul 12, 2026, 22:57 UTC | Jul 12, 2026, 23:06 UTC |
 | [openclaw/clawhub](https://github.com/openclaw/clawhub) | 51 | 499 | 51 | 0 | 1 | 26 | Jul 12, 2026, 22:37 UTC | Jul 12, 2026, 12:45 UTC |
 | [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) | 10 | 292 | 10 | 0 | 2 | 0 | Jul 12, 2026, 22:39 UTC | Jul 12, 2026, 19:01 UTC |
 
@@ -63,6 +63,8 @@ Last source update: Jul 12, 2026, 23:01 UTC
 
 | Repository | Item | Title | Reason | Closed | Report |
 | --- | --- | --- | --- | --- | --- |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#105604](https://github.com/openclaw/openclaw/pull/105604) | fix(ui): align session PR rows with the composer width | closed externally after review | Jul 12, 2026, 23:06 UTC | [records/openclaw-openclaw/closed/105604.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/105604.md) |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#105580](https://github.com/openclaw/openclaw/pull/105580) | refactor(whatsapp): reuse SDK normalization and account selection | closed externally after review | Jul 12, 2026, 23:06 UTC | [records/openclaw-openclaw/closed/105580.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/105580.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#105594](https://github.com/openclaw/openclaw/pull/105594) | fix(ui): harden Create PR row stats and rate-limited chip degradation | closed externally after review | Jul 12, 2026, 23:01 UTC | [records/openclaw-openclaw/closed/105594.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/105594.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#105706](https://github.com/openclaw/openclaw/pull/105706) | chore: capture redacted Slack file event trace | closed externally after review | Jul 12, 2026, 22:55 UTC | [records/openclaw-openclaw/closed/105706.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/105706.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#86217](https://github.com/openclaw/openclaw/issues/86217) | Question: should iOS background location claims include UIBackgroundModes=location? | implemented_on_main | Jul 12, 2026, 22:48 UTC | [records/openclaw-openclaw/closed/86217.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/86217.md) |
@@ -76,8 +78,6 @@ Last source update: Jul 12, 2026, 23:01 UTC
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#105713](https://github.com/openclaw/openclaw/pull/105713) | chore(ui): drop dead config-form search exports | closed externally after review | Jul 12, 2026, 22:13 UTC | [records/openclaw-openclaw/closed/105713.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/105713.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#105711](https://github.com/openclaw/openclaw/pull/105711) | fix(ui): isolate retained test modules | closed externally after review | Jul 12, 2026, 22:13 UTC | [records/openclaw-openclaw/closed/105711.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/105711.md) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#105705](https://github.com/openclaw/openclaw/pull/105705) | refactor(ui): trim private search exports | closed externally after review | Jul 12, 2026, 22:13 UTC | [records/openclaw-openclaw/closed/105705.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/105705.md) |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#105716](https://github.com/openclaw/openclaw/issues/105716) | gateway memory_search ignores local provider config, hardcodes openai fallback | implemented_on_main | Jul 12, 2026, 21:59 UTC | [records/openclaw-openclaw/closed/105716.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/105716.md) |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [#105704](https://github.com/openclaw/openclaw/pull/105704) | fix(ci): keep unused exports advisory | closed externally after review | Jul 12, 2026, 21:51 UTC | [records/openclaw-openclaw/closed/105704.md](https://github.com/openclaw/clawsweeper-state/blob/state/records/openclaw-openclaw/closed/105704.md) |
 
 <details>
 <summary>Recently Reviewed</summary>
